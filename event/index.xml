@@ -5,12 +5,36 @@
     <link>https://ayhamalharbat.github.io/event/</link>
       <atom:link href="https://ayhamalharbat.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ayhamalharbat.github.io/media/icon_hu76ef1c0072e45ef36709fc10a4aca8ae_8921_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ayhamalharbat.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Physically Interacting Maintenance Drones</title>
+      <link>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Physical Interaction with Unmanned Aerial Robots</title>
+      <link>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

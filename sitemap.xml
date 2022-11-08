@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ayhamalharbat.github.io/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/event/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ayhamalharbat.github.io/publication-type/1/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,10 +31,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/tag/aerial-robotics/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,9 +62,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
