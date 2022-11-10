@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Ayham Alharbat</title>
-    <link>https://ayhamalharbat.github.io/project/</link>
-      <atom:link href="https://ayhamalharbat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Aerial Physical Interaction | Ayham Alharbat</title>
+    <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
+      <atom:link href="https://ayhamalharbat.github.io/tag/aerial-physical-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerial Physical Interaction</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
-      <title>Projects</title>
-      <link>https://ayhamalharbat.github.io/project/</link>
+      <title>Aerial Physical Interaction</title>
+      <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
     </image>
     
     <item>
