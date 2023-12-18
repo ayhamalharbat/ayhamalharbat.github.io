@@ -5,12 +5,57 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
+    
+    <item>
+      <title>Indoor Localization using OptiTrack, PX4 Autopilot, and ROS 2</title>
+      <link>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp 400w,
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_a02b45e8714d919e41b55860153460c4.webp 760w,
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Maintenance Robot</title>
+      <link>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</guid>
+      <description>&lt;p&gt;During a visit to the &lt;a href=&#34;https://rpg.ifi.uzh.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics and Perception Group&lt;/a&gt; in the University of Zurich, I presented our work towards an Aerial Maintenance Robot.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Physically Interacting Maintenance Drones</title>
