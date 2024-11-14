@@ -5,12 +5,56 @@
     <link>https://ayhamalharbat.github.io/event/</link>
       <atom:link href="https://ayhamalharbat.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ayhamalharbat.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Transforming Offshore Maintenance with Aerial Robotics</title>
+      <link>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspection and Maintenance of Wind Turbines with Aerial Robots</title>
+      <link>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp 400w,
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_9b0a743e4e20aceed278c5e4a3f49cef.webp 760w,
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sarax - An Open-Source Software/Hardware Framework for Aerial Manipulators</title>

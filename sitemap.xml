@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ayhamalharbat.github.io/</loc>
-    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/event/</loc>
-    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</loc>
