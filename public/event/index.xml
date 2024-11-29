@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ayham Alharbat</title>
+    <link>https://ayhamalharbat.github.io/event/</link>
+      <atom:link href="https://ayhamalharbat.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ayhamalharbat.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Transforming Offshore Maintenance with Aerial Robotics</title>
+      <link>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspection and Maintenance of Wind Turbines with Aerial Robots</title>
+      <link>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp 400w,
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_9b0a743e4e20aceed278c5e4a3f49cef.webp 760w,
+               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sarax - An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor Localization using OptiTrack, PX4 Autopilot, and ROS 2</title>
+      <link>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp 400w,
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_a02b45e8714d919e41b55860153460c4.webp 760w,
+               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Maintenance Robot</title>
+      <link>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</guid>
+      <description>&lt;p&gt;During a visit to the &lt;a href=&#34;https://rpg.ifi.uzh.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics and Perception Group&lt;/a&gt; in the University of Zurich, I presented our work towards an Aerial Maintenance Robot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physically Interacting Maintenance Drones</title>
+      <link>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Physical Interaction with Unmanned Aerial Robots</title>
+      <link>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
