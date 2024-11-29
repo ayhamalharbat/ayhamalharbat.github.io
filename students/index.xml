@@ -35,18 +35,30 @@
       <description>&lt;h1 id=&#34;list-of-supervised-students&#34;&gt;List of Supervised Students&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://it.linkedin.com/in/gabriele-ruscelli-903977276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Ruscelli&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Will follow.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;h2 id=&#34;former-students&#34;&gt;Former students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gr.linkedin.com/in/manouselis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pantelis Manouselis&lt;/a&gt;, &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/rohit-aggarwal710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohit Aggarwal&lt;/a&gt;, &amp;ldquo;Data-driven modelling and control of multi-rotor aerial vehicles&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Will follow.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
+ --&gt;</description>
     </item>
     
   </channel>
