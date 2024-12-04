@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ayhamalharbat.github.io/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/news/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/students/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tags/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/event/</loc>
@@ -47,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/publication/icuas2024/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tags/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -123,6 +135,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/students/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
