@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ayham Alharbat</title>
+    <link>http://localhost:1313/event-copy/</link>
+      <atom:link href="http://localhost:1313/event-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/event-copy/</link>
+    </image>
+    
+    <item>
+      <title>Transforming Offshore Maintenance with Aerial Robotics</title>
+      <link>http://localhost:1313/event-copy/airtub2024/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/airtub2024/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;presenting&#34; srcset=&#34;
+               /event-copy/airtub2024/IMG_2374_hu12122493329101926172.webp 400w,
+               /event-copy/airtub2024/IMG_2374_hu13772553589244064458.webp 760w,
+               /event-copy/airtub2024/IMG_2374_hu7581725931219977381.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event-copy/airtub2024/IMG_2374_hu12122493329101926172.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inspection and Maintenance of Wind Turbines with Aerial Robots</title>
+      <link>http://localhost:1313/event-copy/kivi2024/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/kivi2024/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /event-copy/kivi2024/lab-tour_hu6351632877479754818.webp 400w,
+               /event-copy/kivi2024/lab-tour_hu16237560938808602872.webp 760w,
+               /event-copy/kivi2024/lab-tour_hu417371343442604194.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event-copy/kivi2024/lab-tour_hu6351632877479754818.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sarax - An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>http://localhost:1313/event-copy/icuas2024/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/icuas2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor Localization using OptiTrack, PX4 Autopilot, and ROS 2</title>
+      <link>http://localhost:1313/event-copy/20231012-aerostream-karlovac/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/20231012-aerostream-karlovac/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /event-copy/20231012-aerostream-karlovac/experiment_hu6005014883945349904.webp 400w,
+               /event-copy/20231012-aerostream-karlovac/experiment_hu8742313017998442876.webp 760w,
+               /event-copy/20231012-aerostream-karlovac/experiment_hu18204783531661990028.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event-copy/20231012-aerostream-karlovac/experiment_hu6005014883945349904.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Maintenance Robot</title>
+      <link>http://localhost:1313/event-copy/20230702-uhz-rpg/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/20230702-uhz-rpg/</guid>
+      <description>&lt;p&gt;During a visit to the &lt;a href=&#34;https://rpg.ifi.uzh.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics and Perception Group&lt;/a&gt; in the University of Zurich, I presented our work towards an Aerial Maintenance Robot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physically Interacting Maintenance Drones</title>
+      <link>http://localhost:1313/event-copy/airtub2022/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/airtub2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>http://localhost:1313/event-copy/icuas2022/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/icuas2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Aerial Physical Interaction with Unmanned Aerial Robots</title>
+      <link>http://localhost:1313/event-copy/tvalley2022/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event-copy/tvalley2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

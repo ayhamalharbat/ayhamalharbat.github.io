@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>https://ayhamalharbat.github.io/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/</loc>
+    <loc>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/event/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -20,10 +32,6 @@
   </url><url>
     <loc>https://ayhamalharbat.github.io/tags/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/event/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</loc>

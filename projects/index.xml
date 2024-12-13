@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ayham Alharbat</title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>AeroSTREAM</title>
+      <link>http://localhost:1313/projects/aerostream/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aerostream/</guid>
+      <description>&lt;p&gt;Built on lessons learned and experience gained upon successful implementation of twinning project AeroTwin, this proposal is conceived as an effort to stream AeroTwin positive effects on a network of Higher Education Institutions (HEIs) from Croatia and Bosnia and Herzegovina in order to enlarge capacity for research and innovation, and to prepare and establish a long lasting and integrated cooperation between those institutions and their partners in the local ecosystem. The essential support to reach this objective and prepare the network to facilitate future synergies with the European Universities initiative, will come from three internationally-leading HEIs from Spain, Czech Republic and the Netherlands. Additionally, increase of innovation capabilities of widening HEIs will be achieved through close cooperation with FADA-CATEC and Technological Corporation of Andalusia (CTA), leading European research and innovation intensive organizations, deeply involved in the most relevant EU initiatives and projects. The long lasting and integrated cooperation between institutions will be established in the field of autonomous aerial systems (AAS) applications, with emphasis on smart agriculture, forestry and logistics. The project objectives are i) integrated and long term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands, ii) increased scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and shared capacities with partners from Spain, Czech Republic, and the Netherlands, and iii) improved quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina. Particular set of actions is planned for achieving those objectives, such as common innovation strategy, staff exchange, experts visits, workshops and tutorials, hands‐on trainings, and PhD students co-mentoring.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;alt text&#34; srcset=&#34;
+               /projects/aerostream/featured_hu9403912180182962967.webp 400w,
+               /projects/aerostream/featured_hu10112505435165948423.webp 760w,
+               /projects/aerostream/featured_hu12949852477323516229.webp 1200w&#34;
+               src=&#34;http://localhost:1313/projects/aerostream/featured_hu9403912180182962967.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;objectives&#34;&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;objective-1&#34;&gt;&lt;strong&gt;Objective 1&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Integrated and long-term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands in the field of autonomous aerial systems applications, with emphasis on smart agriculture, forestry, and logistics.&lt;/p&gt;
+&lt;p&gt;This Objective will be achieved through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identification of resources and challenges of w-HEIs&lt;/li&gt;
+&lt;li&gt;Preparation of an action plan for long term cooperation&lt;/li&gt;
+&lt;li&gt;Preparation to embark on the future European Universities Initiative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objective-2&#34;&gt;&lt;strong&gt;Objective 2&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Increase in scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and share capacities with partners from Spain, Czech Republic, and the Netherlands.&lt;/p&gt;
+&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Raising scientific excellence&lt;/li&gt;
+&lt;li&gt;Promoting talent and preventing brain drain&lt;/li&gt;
+&lt;li&gt;Implementation of a shared infrastructure plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objective-3&#34;&gt;&lt;strong&gt;Objective 3&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Improvement of quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina.&lt;/p&gt;
+&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing an innovation strategy&lt;/li&gt;
+&lt;li&gt;Strengthening innovation capacity&lt;/li&gt;
+&lt;li&gt;Mainstreaming entrepreneurial mind-set of researchers&lt;/li&gt;
+&lt;li&gt;Inducing cooperation with industry stakeholders-Science in society-Outreach to children, schools, and general public&lt;/li&gt;
+&lt;li&gt;Open Science&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AeroBlaster</title>
+      <link>http://localhost:1313/projects/aeroblaster/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aeroblaster/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Will follow.&lt;/span&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARS4Earth</title>
+      <link>http://localhost:1313/projects/mars4earth/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mars4earth/</guid>
+      <description>&lt;p&gt;Current drone applications are limited to using drones for non-interactive tele-detection, &amp;ldquo;eyes and noses in the air&amp;rdquo;. The following breakthrough is tele-interaction, &amp;ldquo;hands in the air&amp;rdquo;. The MARS4Earth project aspires to develop the first autonomous and modular aerial manipulator that interacts physically with an outdoor operational environment in a safe, autonomous, efficient and cost-effective way. The research mainly focuses on the question of whether it is possible to develop a prototype of a modular and completely autonomous aerial manipulator that can physically interact with a realistic outdoor environment. In essence, the aerial manipulator acts as &amp;ldquo;arms and hands in the air&amp;rdquo;, which can be used for both active and passive aerial interaction. The applicability of this technology will be demonstrated in three chosen application domains, inspection and maintenance (maintenance of offshore windmill and cleaning solar panels), agriculture (selective treatment of plants and sample picking) and Safety and Security (active firefighting).&lt;/p&gt;
+&lt;p&gt;Funded by Netherlands Organisation for Scientific Research &lt;a href=&#34;https://www.nwo.nl/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWO&lt;/a&gt;. Grant Number: RAAK.PRO03.112&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
