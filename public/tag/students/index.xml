@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students | Ayham Alharbat</title>
+    <link>https://ayhamalharbat.github.io/tag/students/</link>
+      <atom:link href="https://ayhamalharbat.github.io/tag/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Students</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
+      <title>Students</title>
+      <link>https://ayhamalharbat.github.io/tag/students/</link>
+    </image>
+    
+    <item>
+      <title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title>
+      <link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid>
+      <description>&lt;p&gt;Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

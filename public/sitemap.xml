@@ -2,12 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ayhamalharbat.github.io/publication-type/1/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/aerial-robotics/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ayhamalharbat.github.io/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication/icuas2025_2/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication_types/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication/icuas2025_1/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tags/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/event/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/news/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/students/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</loc>
@@ -22,35 +78,11 @@
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication-type/1/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-manipulators/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-robotics/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ayhamalharbat.github.io/tag/open-source/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication_types/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ayhamalharbat.github.io/publication/icuas2024/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tags/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -64,10 +96,6 @@
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/project/aerostream/</loc>
@@ -84,10 +112,6 @@
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</loc>
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-physical-interaction-control/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/tag/model-predective-control/</loc>
@@ -113,16 +137,16 @@
     <loc>https://ayhamalharbat.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/students/assignments-proposals/</loc>
+    <loc>https://ayhamalharbat.github.io/education/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/students/students-list/</loc>
+    <loc>https://ayhamalharbat.github.io/students/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/students/</loc>
+    <loc>https://ayhamalharbat.github.io/tag/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

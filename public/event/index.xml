@@ -5,7 +5,7 @@
     <link>https://ayhamalharbat.github.io/event/</link>
       <atom:link href="https://ayhamalharbat.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,11 +13,104 @@
     </image>
     
     <item>
+      <title>Developing and Testing Control and Navigation Algorithms for Aerial Robots with PX4 and ROS 2</title>
+      <link>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;discussion.JPG&#34; alt=&#34;screen reader text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control for Multi-Rotor Aerial Vehicle</title>
+      <link>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
+               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_33815ccb71459aa377a7eb2887f4688c.webp 400w,
+               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_9b9a3b4a942ebd4c22ac93a23c913844.webp 760w,
+               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_33815ccb71459aa377a7eb2887f4688c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Transforming Offshore Maintenance with Aerial Robotics</title>
       <link>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</guid>
-      <description></description>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;presenting&#34; srcset=&#34;
+               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1bffa8700ea7f4deeb7d501797972ca5.webp 400w,
+               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_fbc98fbab5c9a84dc9bf0f66b2bbb5cb.webp 760w,
+               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1bffa8700ea7f4deeb7d501797972ca5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>

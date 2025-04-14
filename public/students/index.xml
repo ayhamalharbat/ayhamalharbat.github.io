@@ -35,18 +35,36 @@
       <description>&lt;h1 id=&#34;list-of-supervised-students&#34;&gt;List of Supervised Students&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mayuresh-pachore-88b71018a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mayuresh Pachore&lt;/a&gt;, &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/michele-brusadin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michele Brusadin&lt;/a&gt;, &amp;ldquo;RL-based Control of UASs Subject to Significant Disturbances and Vision Constraints&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;former-students&#34;&gt;Former Students&lt;/h2&gt;
+&lt;h3 id=&#34;master-students&#34;&gt;Master Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://it.linkedin.com/in/gabriele-ruscelli-903977276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Ruscelli&lt;/a&gt;, &amp;ldquo;External Wrench Estimation of Aerial Robot Exploiting a Learned Model&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gr.linkedin.com/in/manouselis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pantelis Manouselis&lt;/a&gt;, &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/rohit-aggarwal710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohit Aggarwal&lt;/a&gt;, &amp;ldquo;Data-driven Modelling and Control of Multi-rotor Aerial Vehicles&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/louis-nelissen-627934158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Louis Nelissen&lt;/a&gt;, &amp;ldquo;Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ddlogmans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniël Logmans&lt;/a&gt;, &amp;ldquo;Friction-aware Nonlinear Model Predictive Control for Aerial Physical Interaction tasks&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/%EC%9B%85-%EA%B9%80-1b6b42206/?locale=en_US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Woong Kim&lt;/a&gt;, &amp;ldquo;Modelling of a 3-DOF Robot Arm for Physical Interaction&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/vishakha-p-a1592213b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vishakha Patel&lt;/a&gt;, &amp;ldquo;A Comparative Study on the Optimal Use of a Fully-actuated Multi-rotor Aerial Robots&amp;rdquo;,  (Co-supervised with Hanieh Esmaeeli)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bachelor-students&#34;&gt;Bachelor Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/jop-te-riet-ook-genaamd-scholten-4686731a3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jop te Riet Scholten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/coen-heerink-a052b9172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coen Heerink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leticia Daniel Roldan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/sigmar-van-druten-619143154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sigmar van Druten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Will follow.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;former-students&#34;&gt;Former students&lt;/h2&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Will follow.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+ --&gt;</description>
     </item>
     
   </channel>
