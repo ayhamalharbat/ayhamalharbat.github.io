@@ -5,66 +5,12 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
-    
-    <item>
-      <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2025_2/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RL-based Control of UAS Subject to Significant Disturbance</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2025_1/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2025_1/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
     
     <item>
       <title>Developing and Testing Control and Navigation Algorithms for Aerial Robots with PX4 and ROS 2</title>
