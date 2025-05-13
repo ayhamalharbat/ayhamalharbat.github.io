@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>🎉🎉 Two papers accepted at ICUAS 2025</title>
+      <link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid>
+      <description>&lt;p&gt;🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p&gt;
+&lt;p&gt;The first paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_2&#34;&gt;External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a&gt;&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p&gt;
+&lt;p&gt;Kudos to my co-first-author and MSc student, Gabriele, for the great work on his MSc thesis 🎉&lt;/p&gt;
+&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_1&#34;&gt;RL-based Control of UAS Subject to Significant Disturbance&lt;/a&gt;&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS, shown in the picture below.
+I am grateful to my co-authors Kousheek, Thijs, for the great teamwork and contributions throughout.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
       <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
@@ -517,20 +530,20 @@ Do not hesitate to contact me to discuss the possibilities.
 &lt;li&gt;We published &lt;a href=&#34;https://arxiv.org/pdf/2504.08156&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; together 🎉!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gr.linkedin.com/in/manouselis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pantelis Manouselis&lt;/a&gt;, &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;
+&lt;li&gt;&lt;a href=&#34;https://gr.linkedin.com/in/manouselis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pantelis Manouselis&lt;/a&gt;, &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;.
 &lt;ul&gt;
-&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;🎉!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/rohit-aggarwal710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohit Aggarwal&lt;/a&gt;, &amp;ldquo;Data-driven Modelling and Control of Multi-rotor Aerial Vehicles&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/louis-nelissen-627934158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Louis Nelissen&lt;/a&gt;, &amp;ldquo;Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ddlogmans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniël Logmans&lt;/a&gt;, &amp;ldquo;Friction-aware Nonlinear Model Predictive Control for Aerial Physical Interaction tasks&amp;rdquo;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/rohit-aggarwal710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohit Aggarwal&lt;/a&gt;, &amp;ldquo;Data-driven Modelling and Control of Multi-rotor Aerial Vehicles&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/louis-nelissen-627934158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Louis Nelissen&lt;/a&gt;, &amp;ldquo;Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ddlogmans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniël Logmans&lt;/a&gt;, &amp;ldquo;Friction-aware Nonlinear Model Predictive Control for Aerial Physical Interaction tasks&amp;rdquo;.
 &lt;ul&gt;
-&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;🎉!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/%EC%9B%85-%EA%B9%80-1b6b42206/?locale=en_US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Woong Kim&lt;/a&gt;, &amp;ldquo;Modelling of a 3-DOF Robot Arm for Physical Interaction&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/vishakha-p-a1592213b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vishakha Patel&lt;/a&gt;, &amp;ldquo;A Comparative Study on the Optimal Use of a Fully-actuated Multi-rotor Aerial Robots&amp;rdquo;,  (Co-supervised with Hanieh Esmaeeli)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/%EC%9B%85-%EA%B9%80-1b6b42206/?locale=en_US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Woong Kim&lt;/a&gt;, &amp;ldquo;Modelling of a 3-DOF Robot Arm for Physical Interaction&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/vishakha-p-a1592213b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vishakha Patel&lt;/a&gt;, &amp;ldquo;A Comparative Study on the Optimal Use of a Fully-actuated Multi-rotor Aerial Robots&amp;rdquo;,  (Co-supervised with Hanieh Esmaeeli).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;bachelor-students&#34;&gt;Bachelor Students&lt;/h3&gt;
 &lt;ul&gt;
