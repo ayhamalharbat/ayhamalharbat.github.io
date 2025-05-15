@@ -19,9 +19,9 @@
       <guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid>
       <description>&lt;p&gt;🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p&gt;
 &lt;p&gt;The first paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_2&#34;&gt;External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a&gt;&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p&gt;
-&lt;p&gt;Kudos to my co-first-author and MSc student, Gabriele, for the great work on his MSc thesis 🎉&lt;/p&gt;
-&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_1&#34;&gt;RL-based Control of UAS Subject to Significant Disturbance&lt;/a&gt;&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS, shown in the picture below.
-I am grateful to my co-authors Kousheek, Thijs, for the great teamwork and contributions throughout.&lt;/p&gt;
+&lt;p&gt;Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p&gt;
+&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_1&#34;&gt;RL-based Control of UAS Subject to Significant Disturbance&lt;/a&gt;&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p&gt;
+&lt;p&gt;I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p&gt;
 </description>
     </item>
     
