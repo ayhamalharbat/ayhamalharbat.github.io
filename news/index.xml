@@ -5,12 +5,21 @@
     <link>https://ayhamalharbat.github.io/news/</link>
       <atom:link href="https://ayhamalharbat.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>News</title>
       <link>https://ayhamalharbat.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>
+      <link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid>
+      <description>&lt;p&gt;We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉🎉 Two papers accepted at ICUAS 2025</title>

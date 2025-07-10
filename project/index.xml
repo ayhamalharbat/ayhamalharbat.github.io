@@ -5,12 +5,39 @@
     <link>https://ayhamalharbat.github.io/project/</link>
       <atom:link href="https://ayhamalharbat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Projects</title>
       <link>https://ayhamalharbat.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>MAESTRO-Drone</title>
+      <link>https://ayhamalharbat.github.io/project/maestro/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/project/maestro/</guid>
+      <description>&lt;p&gt;In 2024, the Dutch government announced plans to make offshore wind the primary energy source by 2032, targeting 21 GW of installed capacity, with projections reaching up to 72 GW by 2050 to meet climate-neutral goals. However, offshore wind turbines (WTs) face operational issues such as cavitation, bird strikes, and corrosion, which compromise energy output. Effective inspection and maintenance (I&amp;amp;M) are critical but currently rely on manual rope access methods, which are expensive, dangerous, and weather-dependent. With more turbines coming online and fewer skilled personnel available, scalable and safer alternatives are urgently needed.&lt;/p&gt;
+&lt;h1 id=&#34;problem-statement-and-context&#34;&gt;Problem statement and context&lt;/h1&gt;
+&lt;p&gt;Aerial robots offer a promising solution, especially as they evolve to handle physical interaction tasks. Yet, most commercial drones are designed for specific uses, making them financially inaccessible for small and medium-sized enterprises (SMEs) that provide I&amp;amp;M services. This project, in collaboration with SMEs, innovation clusters, and research institutions, aims to develop a modular drone system adaptable to various tasks. By reducing operational costs, enhancing safety, and supporting efficient green energy production, the initiative seeks to accelerate the adoption of drone technologies in offshore wind and support the broader renewable energy transition.&lt;/p&gt;
+&lt;h1 id=&#34;research-questions&#34;&gt;Research questions&lt;/h1&gt;
+&lt;h2 id=&#34;main-research-question&#34;&gt;Main Research Question:&lt;/h2&gt;
+&lt;p&gt;“How can we develop a versatile modular autonomous aerial robot that can be easily and intuitively deployed in offshore environments for inspecting and maintaining wind turbines?”&lt;/p&gt;
+&lt;h2 id=&#34;sub-research-questions&#34;&gt;Sub-research Questions:&lt;/h2&gt;
+&lt;p&gt;What is the most important set of user requirements to develop and deploy a versatile autonomous aerial robot for offshore operations? What are the corresponding functional and non-functional requirements?
+How can we develop standardized (hardware and software) interfaces to enable SMEs to deploy their inspection, maintenance, logistics, and data collection tools during their offshore operations using a modular aerial platform?
+How can we develop a mechanical design, controller, and path planner that would allow the MAESTRO-drone to conduct its offshore operations efficiently, effectively, and safely?
+How can we design a human-robot interface to operate a physically interactive drone for offshore operations that enhances user experience and task performance?
+How can the capabilities developed in this project, along with the existing contributions from SMEs, be seamlessly integrated to create a comprehensive prototype that meets predefined requirements?
+How can we efficiently disseminate the knowledge acquired in this project to the business community and ensure ongoing knowledge development beyond the project&amp;rsquo;s completion?&lt;/p&gt;
+&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
+&lt;p&gt;RAAK MKB (RAAK.MKB21.026)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;project-updates&#34;&gt;Project Updates&lt;/h1&gt;
+&lt;h2 id=&#34;2025-07-08-project-kickoff&#34;&gt;2025-07-08: Project Kickoff&lt;/h2&gt;
+&lt;p&gt;Check out this video from Tuesday, 08-07-2025, when we kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>AeroSTREAM</title>
