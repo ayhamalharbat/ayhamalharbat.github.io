@@ -18,8 +18,31 @@
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid>
       <description>&lt;p&gt;We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;style&gt;
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+&lt;/style&gt;
+&lt;div class=&#34;video-container&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34;
+          title=&#34;YouTube video player&#34;
+          frameborder=&#34;0&#34;
+          allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
+          referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
+          allowfullscreen&gt;
+  &lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
