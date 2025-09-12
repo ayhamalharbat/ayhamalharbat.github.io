@@ -5,12 +5,39 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
+    
+    <item>
+      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>
@@ -114,10 +141,10 @@ How can we efficiently disseminate the knowledge acquired in this project to the
     </item>
     
     <item>
-      <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
+      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2025_2/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -141,10 +168,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>RL-based Control of UAS Subject to Significant Disturbance</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2025_1/</link>
+      <title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2025_1/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -165,6 +192,32 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multirotor UAV—A Multidisciplinary Platform for Teaching Mechatronics Engineering</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-1-sensors/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/publication/2025-1-sensors/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
@@ -322,10 +375,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2024/</link>
+      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2024/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -482,10 +535,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2022/</link>
+      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2022/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -522,10 +575,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/tes2021/</link>
+      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
+      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/tes2021/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -573,15 +626,16 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <guid>https://ayhamalharbat.github.io/education/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;This page summarizes my teaching activities.&lt;/p&gt;
-&lt;p&gt;Check &lt;a href=&#34;https://ayhamalharbat.github.io/students/students-list&#34;&gt;Students list&lt;/a&gt; for a summary of students supervision.&lt;/p&gt;
+&lt;p&gt;This page summarizes my teaching activities. Check &lt;a href=&#34;https://ayhamalharbat.github.io/students&#34;&gt;Students list&lt;/a&gt; for a summary of students supervision.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;bachelor-courses&#34;&gt;Bachelor Courses&lt;/h2&gt;
-&lt;h4 id=&#34;modern-control&#34;&gt;Modern Control&lt;/h4&gt;
+&lt;h4 id=&#34;1-modern-control&#34;&gt;1. Modern Control&lt;/h4&gt;
 &lt;p&gt;Starting with the fundamentals of Feedback Systems Modeling and Control Theory, and covering Adaptive Control.&lt;/p&gt;
-&lt;h4 id=&#34;modeling-and-control-of-drones&#34;&gt;Modeling and Control of Drones&lt;/h4&gt;
+&lt;h4 id=&#34;2-modeling-and-control-of-drones&#34;&gt;2. Modeling and Control of Drones&lt;/h4&gt;
 &lt;p&gt;An introduction course to the modeling and control of multi-rotors drones, covering their kinematics, equations of motion, rotors models and actuation properties, position and velocity control, and of course the essential hardware and software aspects.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;master-courses&#34;&gt;Master Courses&lt;/h2&gt;
-&lt;h4 id=&#34;control-for-uavs&#34;&gt;Control for UAVs&lt;/h4&gt;
+&lt;h4 id=&#34;aerial-robotics&#34;&gt;Aerial Robotics&lt;/h4&gt;
 &lt;p&gt;In this course, I teach a lecture about Model Predictive Control of UAVs.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
