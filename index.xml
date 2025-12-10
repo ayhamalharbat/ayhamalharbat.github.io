@@ -5,12 +5,29 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
+    
+    <item>
+      <title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title>
+      <link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid>
+      <description>&lt;p&gt;During a visit to Dr. Alessandro Saccon in the &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/robotics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Research Group&lt;/a&gt; in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aerial Robotics for Complex Offshore Operations</title>
+      <link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
@@ -626,16 +643,15 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <guid>https://ayhamalharbat.github.io/education/</guid>
       <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;This page summarizes my teaching activities. Check &lt;a href=&#34;https://ayhamalharbat.github.io/students&#34;&gt;Students list&lt;/a&gt; for a summary of students supervision.&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;This page summarizes my teaching activities.&lt;/p&gt;
+&lt;p&gt;Check &lt;a href=&#34;https://ayhamalharbat.github.io/students/students-list&#34;&gt;Students list&lt;/a&gt; for a summary of students supervision.&lt;/p&gt;
 &lt;h2 id=&#34;bachelor-courses&#34;&gt;Bachelor Courses&lt;/h2&gt;
-&lt;h4 id=&#34;1-modern-control&#34;&gt;1. Modern Control&lt;/h4&gt;
+&lt;h4 id=&#34;modern-control&#34;&gt;Modern Control&lt;/h4&gt;
 &lt;p&gt;Starting with the fundamentals of Feedback Systems Modeling and Control Theory, and covering Adaptive Control.&lt;/p&gt;
-&lt;h4 id=&#34;2-modeling-and-control-of-drones&#34;&gt;2. Modeling and Control of Drones&lt;/h4&gt;
+&lt;h4 id=&#34;modeling-and-control-of-drones&#34;&gt;Modeling and Control of Drones&lt;/h4&gt;
 &lt;p&gt;An introduction course to the modeling and control of multi-rotors drones, covering their kinematics, equations of motion, rotors models and actuation properties, position and velocity control, and of course the essential hardware and software aspects.&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;master-courses&#34;&gt;Master Courses&lt;/h2&gt;
-&lt;h4 id=&#34;aerial-robotics&#34;&gt;Aerial Robotics&lt;/h4&gt;
+&lt;h4 id=&#34;control-for-uavs&#34;&gt;Control for UAVs&lt;/h4&gt;
 &lt;p&gt;In this course, I teach a lecture about Model Predictive Control of UAVs.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -673,7 +689,19 @@ Do not hesitate to contact me to discuss the possibilities.
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/elmar-cheung-3b417436a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elmar Cheung&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/elmar-cheung-3b417436a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elmar Cheung&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;, (Co-supervised with Camille Buschman)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/thijs-hof-62006b181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thijs Hof&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;, (Co-supervised with Niccolò Botteghi)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/waleed-sharkawy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Waleed Elfieky&lt;/a&gt;, from &lt;a href=&#34;https://unige.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Genoa&lt;/a&gt;: &amp;ldquo;Vision-based Motion Planning for Aerial Physical Interaction&amp;rdquo;, (Co-supervised with Benjamin van Manen)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ferdi-cakin-039b4b270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferdi Cakin&lt;/a&gt;, from &lt;a href=&#34;https://www.insa-hautsdefrance.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSA Hauts-de-France&lt;/a&gt;: &amp;ldquo;PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots&amp;rdquo;, (Co-supervised with Kousheek Chakraborty &amp;amp; Youssef Aboudorra)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;former-students&#34;&gt;Former Students&lt;/h2&gt;
