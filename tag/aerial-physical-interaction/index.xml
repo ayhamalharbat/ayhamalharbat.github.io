@@ -5,12 +5,39 @@
     <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
       <atom:link href="https://ayhamalharbat.github.io/tag/aerial-physical-interaction/index.xml" rel="self" type="application/rss+xml" />
     <description>Aerial Physical Interaction</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Aerial Physical Interaction</title>
       <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
     </image>
+    
+    <item>
+      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>MAESTRO-Drone</title>
@@ -66,10 +93,10 @@ How can we efficiently disseminate the knowledge acquired in this project to the
     </item>
     
     <item>
-      <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
+      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
+      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2025_2/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -93,10 +120,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2024/</link>
+      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2024/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -184,10 +211,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/icuas2022/</link>
+      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/icuas2022/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -224,10 +251,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/tes2021/</link>
+      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
+      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/tes2021/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

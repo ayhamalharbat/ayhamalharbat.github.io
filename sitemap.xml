@@ -2,11 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</loc>
-    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
+    <loc>https://ayhamalharbat.github.io/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/</loc>
+    <loc>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/event/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication-type/2/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/aerial-robotics/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tag/model-predective-control/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication_types/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/publication/2025-4-ral/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/tags/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -16,14 +60,6 @@
   </url><url>
     <loc>https://ayhamalharbat.github.io/news/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tags/</loc>
-    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/project/maestro/</loc>
@@ -42,19 +78,11 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/aerial-robotics/</loc>
+    <loc>https://ayhamalharbat.github.io/publication/2025-3-icuas/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/icuas2025_2/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/publication_types/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/</loc>
+    <loc>https://ayhamalharbat.github.io/publication/2025-2-icuas/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -62,8 +90,8 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/icuas2025_1/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <loc>https://ayhamalharbat.github.io/publication/2025-1-sensors/</loc>
+    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</loc>
@@ -71,10 +99,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/event/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,11 +122,11 @@
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/open-source/</loc>
+    <loc>https://ayhamalharbat.github.io/publication/2024-icuas/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/icuas2024/</loc>
+    <loc>https://ayhamalharbat.github.io/tag/open-source/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -130,11 +154,7 @@
     <lastmod>2022-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/tag/model-predective-control/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/icuas2022/</loc>
+    <loc>https://ayhamalharbat.github.io/publication/2022-icuas/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -142,7 +162,7 @@
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ayhamalharbat.github.io/publication/tes2021/</loc>
+    <loc>https://ayhamalharbat.github.io/publication/2021-tes/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
