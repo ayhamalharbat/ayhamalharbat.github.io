@@ -5,56 +5,12 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
-    
-    <item>
-      <title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid>
-      <description>&lt;p&gt;During a visit to Dr. Alessandro Saccon in the &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/robotics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Research Group&lt;/a&gt; in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aerial Robotics for Complex Offshore Operations</title>
-      <link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
     
     <item>
       <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>
@@ -158,10 +114,10 @@ How can we efficiently disseminate the knowledge acquired in this project to the
     </item>
     
     <item>
-      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
+      <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2025_2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -185,10 +141,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link>
+      <title>RL-based Control of UAS Subject to Significant Disturbance</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2025_1/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2025_1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -209,32 +165,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Multirotor UAV—A Multidisciplinary Platform for Teaching Mechatronics Engineering</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-1-sensors/</link>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-1-sensors/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
@@ -392,10 +322,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
+      <title>Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2024/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -552,10 +482,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
+      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2022/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -592,10 +522,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
+      <title>Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
+      <link>https://ayhamalharbat.github.io/publication/tes2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/tes2021/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -689,19 +619,7 @@ Do not hesitate to contact me to discuss the possibilities.
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/elmar-cheung-3b417436a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elmar Cheung&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;, (Co-supervised with Camille Buschman)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/thijs-hof-62006b181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thijs Hof&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;, (Co-supervised with Niccolò Botteghi)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/waleed-sharkawy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Waleed Elfieky&lt;/a&gt;, from &lt;a href=&#34;https://unige.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Genoa&lt;/a&gt;: &amp;ldquo;Vision-based Motion Planning for Aerial Physical Interaction&amp;rdquo;, (Co-supervised with Benjamin van Manen)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ferdi-cakin-039b4b270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferdi Cakin&lt;/a&gt;, from &lt;a href=&#34;https://www.insa-hautsdefrance.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSA Hauts-de-France&lt;/a&gt;: &amp;ldquo;PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots&amp;rdquo;, (Co-supervised with Kousheek Chakraborty &amp;amp; Youssef Aboudorra)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/elmar-cheung-3b417436a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elmar Cheung&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;former-students&#34;&gt;Former Students&lt;/h2&gt;

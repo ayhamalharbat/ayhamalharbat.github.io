@@ -5,29 +5,12 @@
     <link>https://ayhamalharbat.github.io/event/</link>
       <atom:link href="https://ayhamalharbat.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ayhamalharbat.github.io/event/</link>
     </image>
-    
-    <item>
-      <title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid>
-      <description>&lt;p&gt;During a visit to Dr. Alessandro Saccon in the &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/robotics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Research Group&lt;/a&gt; in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aerial Robotics for Complex Offshore Operations</title>
-      <link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Developing and Testing Control and Navigation Algorithms for Aerial Robots with PX4 and ROS 2</title>

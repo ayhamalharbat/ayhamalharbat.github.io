@@ -5,7 +5,7 @@
     <link>https://ayhamalharbat.github.io/tag/aerial-robotics/</link>
       <atom:link href="https://ayhamalharbat.github.io/tag/aerial-robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Aerial Robotics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Aerial Robotics</title>
@@ -13,37 +13,10 @@
     </image>
     
     <item>
-      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
+      <title>External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2025_2/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2025_2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -67,10 +40,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link>
+      <title>RL-based Control of UAS Subject to Significant Disturbance</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2025_1/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2025_1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -94,36 +67,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Multirotor UAV—A Multidisciplinary Platform for Teaching Mechatronics Engineering</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-1-sensors/</link>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-1-sensors/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
+      <title>Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2024/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -147,10 +94,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
+      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
+      <link>https://ayhamalharbat.github.io/publication/icuas2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/icuas2022/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -174,10 +121,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
+      <title>Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
+      <link>https://ayhamalharbat.github.io/publication/tes2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
+      <guid>https://ayhamalharbat.github.io/publication/tes2021/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
