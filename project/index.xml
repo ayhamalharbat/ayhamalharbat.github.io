@@ -5,12 +5,24 @@
     <link>https://ayhamalharbat.github.io/project/</link>
       <atom:link href="https://ayhamalharbat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Projects</title>
       <link>https://ayhamalharbat.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>AEROWIND</title>
+      <link>https://ayhamalharbat.github.io/project/aerowind/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/project/aerowind/</guid>
+      <description>&lt;p&gt;Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p&gt;
+&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
+&lt;p&gt;RAAK PRO (RAAK.PRO06.091)&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- # Project Updates --&gt;</description>
+    </item>
     
     <item>
       <title>MAESTRO-Drone</title>

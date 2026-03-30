@@ -5,12 +5,24 @@
     <link>https://ayhamalharbat.github.io/news/</link>
       <atom:link href="https://ayhamalharbat.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>News</title>
       <link>https://ayhamalharbat.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>🎉🚁 AEROWIND Project Kicked-off</title>
+      <link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nwo.nl/en/projects/ziwsb88001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEROWIND Project&lt;/a&gt; has kicked off!
+Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p&gt;
+&lt;p&gt;For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p&gt;
+&lt;p&gt;We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>

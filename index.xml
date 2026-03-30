@@ -5,12 +5,36 @@
     <link>https://ayhamalharbat.github.io/</link>
       <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
       <title>Ayham Alharbat</title>
       <link>https://ayhamalharbat.github.io/</link>
     </image>
+    
+    <item>
+      <title>🎉🚁 AEROWIND Project Kicked-off</title>
+      <link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nwo.nl/en/projects/ziwsb88001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEROWIND Project&lt;/a&gt; has kicked off!
+Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p&gt;
+&lt;p&gt;For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p&gt;
+&lt;p&gt;We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AEROWIND</title>
+      <link>https://ayhamalharbat.github.io/project/aerowind/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ayhamalharbat.github.io/project/aerowind/</guid>
+      <description>&lt;p&gt;Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p&gt;
+&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
+&lt;p&gt;RAAK PRO (RAAK.PRO06.091)&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- # Project Updates --&gt;</description>
+    </item>
     
     <item>
       <title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title>
