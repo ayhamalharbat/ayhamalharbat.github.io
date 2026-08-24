@@ -1,787 +1,360 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ayham Alharbat</title>
-    <link>https://ayhamalharbat.github.io/</link>
-      <atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ayham Alharbat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
-      <title>Ayham Alharbat</title>
-      <link>https://ayhamalharbat.github.io/</link>
-    </image>
-    
-    <item>
-      <title>🎉🚁 AEROWIND Project Kicked-off</title>
-      <link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.nwo.nl/en/projects/ziwsb88001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEROWIND Project&lt;/a&gt; has kicked off!
-Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p&gt;
-&lt;p&gt;For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p&gt;
-&lt;p&gt;We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AEROWIND</title>
-      <link>https://ayhamalharbat.github.io/project/aerowind/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aerowind/</guid>
-      <description>&lt;p&gt;Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p&gt;
-&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
-&lt;p&gt;RAAK PRO (RAAK.PRO06.091)&lt;/p&gt;
-&lt;hr&gt;
-&lt;!-- # Project Updates --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid>
-      <description>&lt;p&gt;During a visit to Dr. Alessandro Saccon in the &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/robotics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Research Group&lt;/a&gt; in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aerial Robotics for Complex Offshore Operations</title>
-      <link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>
-      <link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid>
-      <description>&lt;p&gt;We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
-&lt;style&gt;
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-&lt;/style&gt;
-&lt;div class=&#34;video-container&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34;
-          title=&#34;YouTube video player&#34;
-          frameborder=&#34;0&#34;
-          allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
-          referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
-          allowfullscreen&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MAESTRO-Drone</title>
-      <link>https://ayhamalharbat.github.io/project/maestro/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/maestro/</guid>
-      <description>&lt;p&gt;In 2024, the Dutch government announced plans to make offshore wind the primary energy source by 2032, targeting 21 GW of installed capacity, with projections reaching up to 72 GW by 2050 to meet climate-neutral goals. However, offshore wind turbines (WTs) face operational issues such as cavitation, bird strikes, and corrosion, which compromise energy output. Effective inspection and maintenance (I&amp;amp;M) are critical but currently rely on manual rope access methods, which are expensive, dangerous, and weather-dependent. With more turbines coming online and fewer skilled personnel available, scalable and safer alternatives are urgently needed.&lt;/p&gt;
-&lt;h1 id=&#34;problem-statement-and-context&#34;&gt;Problem statement and context&lt;/h1&gt;
-&lt;p&gt;Aerial robots offer a promising solution, especially as they evolve to handle physical interaction tasks. Yet, most commercial drones are designed for specific uses, making them financially inaccessible for small and medium-sized enterprises (SMEs) that provide I&amp;amp;M services. This project, in collaboration with SMEs, innovation clusters, and research institutions, aims to develop a modular drone system adaptable to various tasks. By reducing operational costs, enhancing safety, and supporting efficient green energy production, the initiative seeks to accelerate the adoption of drone technologies in offshore wind and support the broader renewable energy transition.&lt;/p&gt;
-&lt;h1 id=&#34;research-questions&#34;&gt;Research questions&lt;/h1&gt;
-&lt;h2 id=&#34;main-research-question&#34;&gt;Main Research Question:&lt;/h2&gt;
-&lt;p&gt;“How can we develop a versatile modular autonomous aerial robot that can be easily and intuitively deployed in offshore environments for inspecting and maintaining wind turbines?”&lt;/p&gt;
-&lt;h2 id=&#34;sub-research-questions&#34;&gt;Sub-research Questions:&lt;/h2&gt;
-&lt;p&gt;What is the most important set of user requirements to develop and deploy a versatile autonomous aerial robot for offshore operations? What are the corresponding functional and non-functional requirements?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link><atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ayham Alharbat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link></image><item><title>🎉🚁 AEROWIND Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid><description>&lt;p>&lt;a href="https://www.nwo.nl/en/projects/ziwsb88001" target="_blank" rel="noopener">AEROWIND Project&lt;/a> has kicked off!
+Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p>
+&lt;p>For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p>
+&lt;p>We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p></description></item><item><title>AEROWIND</title><link>https://ayhamalharbat.github.io/project/aerowind/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aerowind/</guid><description>&lt;p>Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p>
+&lt;h2 id="project-subsidy">Project subsidy:&lt;/h2>
+&lt;p>RAAK PRO (RAAK.PRO06.091)&lt;/p>
+&lt;hr>
+&lt;!-- # Project Updates --></description></item><item><title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid><description>&lt;p>During a visit to Dr. Alessandro Saccon in the &lt;a href="https://www.tue.nl/en/research/research-groups/robotics" target="_blank" rel="noopener">Robotics Research Group&lt;/a> in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p></description></item><item><title>Aerial Robotics for Complex Offshore Operations</title><link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link><pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid><description/></item><item><title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link><pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>🎉🚁 MAESTRO-Drone Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid><description>&lt;p>We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe src="https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+&lt;/iframe>
+&lt;/div></description></item><item><title>MAESTRO-Drone</title><link>https://ayhamalharbat.github.io/project/maestro/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/maestro/</guid><description>&lt;p>In 2024, the Dutch government announced plans to make offshore wind the primary energy source by 2032, targeting 21 GW of installed capacity, with projections reaching up to 72 GW by 2050 to meet climate-neutral goals. However, offshore wind turbines (WTs) face operational issues such as cavitation, bird strikes, and corrosion, which compromise energy output. Effective inspection and maintenance (I&amp;amp;M) are critical but currently rely on manual rope access methods, which are expensive, dangerous, and weather-dependent. With more turbines coming online and fewer skilled personnel available, scalable and safer alternatives are urgently needed.&lt;/p>
+&lt;h1 id="problem-statement-and-context">Problem statement and context&lt;/h1>
+&lt;p>Aerial robots offer a promising solution, especially as they evolve to handle physical interaction tasks. Yet, most commercial drones are designed for specific uses, making them financially inaccessible for small and medium-sized enterprises (SMEs) that provide I&amp;amp;M services. This project, in collaboration with SMEs, innovation clusters, and research institutions, aims to develop a modular drone system adaptable to various tasks. By reducing operational costs, enhancing safety, and supporting efficient green energy production, the initiative seeks to accelerate the adoption of drone technologies in offshore wind and support the broader renewable energy transition.&lt;/p>
+&lt;h1 id="research-questions">Research questions&lt;/h1>
+&lt;h2 id="main-research-question">Main Research Question:&lt;/h2>
+&lt;p>“How can we develop a versatile modular autonomous aerial robot that can be easily and intuitively deployed in offshore environments for inspecting and maintaining wind turbines?”&lt;/p>
+&lt;h2 id="sub-research-questions">Sub-research Questions:&lt;/h2>
+&lt;p>What is the most important set of user requirements to develop and deploy a versatile autonomous aerial robot for offshore operations? What are the corresponding functional and non-functional requirements?
 How can we develop standardized (hardware and software) interfaces to enable SMEs to deploy their inspection, maintenance, logistics, and data collection tools during their offshore operations using a modular aerial platform?
 How can we develop a mechanical design, controller, and path planner that would allow the MAESTRO-drone to conduct its offshore operations efficiently, effectively, and safely?
 How can we design a human-robot interface to operate a physically interactive drone for offshore operations that enhances user experience and task performance?
 How can the capabilities developed in this project, along with the existing contributions from SMEs, be seamlessly integrated to create a comprehensive prototype that meets predefined requirements?
-How can we efficiently disseminate the knowledge acquired in this project to the business community and ensure ongoing knowledge development beyond the project&amp;rsquo;s completion?&lt;/p&gt;
-&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
-&lt;p&gt;RAAK MKB (RAAK.MKB21.026)&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;project-updates&#34;&gt;Project Updates&lt;/h1&gt;
-&lt;h2 id=&#34;2025-07-08-project-kickoff&#34;&gt;2025-07-08: Project Kickoff&lt;/h2&gt;
-&lt;p&gt;Check out this video from Tuesday, 08-07-2025, when we kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
-&lt;style&gt;
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-&lt;/style&gt;
-&lt;div class=&#34;video-container&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34;
-          title=&#34;YouTube video player&#34;
-          frameborder=&#34;0&#34;
-          allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
-          referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
-          allowfullscreen&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🎉 Two papers accepted at ICUAS 2025</title>
-      <link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid>
-      <description>&lt;p&gt;🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p&gt;
-&lt;p&gt;The first paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_2&#34;&gt;External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a&gt;&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p&gt;
-&lt;p&gt;Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p&gt;
-&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_1&#34;&gt;RL-based Control of UAS Subject to Significant Disturbance&lt;/a&gt;&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p&gt;
-&lt;p&gt;I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multirotor UAV—A Multidisciplinary Platform for Teaching Mechatronics Engineering</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-1-sensors/</link>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-1-sensors/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Developing and Testing Control and Navigation Algorithms for Aerial Robots with PX4 and ROS 2</title>
-      <link>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;discussion.JPG&#34; alt=&#34;screen reader text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Model Predictive Control for Multi-Rotor Aerial Vehicle</title>
-      <link>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
-               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_33815ccb71459aa377a7eb2887f4688c.webp 400w,
-               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_9b9a3b4a942ebd4c22ac93a23c913844.webp 760w,
-               /talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_33815ccb71459aa377a7eb2887f4688c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title>
-      <link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid>
-      <description>&lt;p&gt;Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transforming Offshore Maintenance with Aerial Robotics</title>
-      <link>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</link>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;presenting&#34; srcset=&#34;
-               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1bffa8700ea7f4deeb7d501797972ca5.webp 400w,
-               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_fbc98fbab5c9a84dc9bf0f66b2bbb5cb.webp 760w,
-               /talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1bffa8700ea7f4deeb7d501797972ca5.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inspection and Maintenance of Wind Turbines with Aerial Robots</title>
-      <link>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</link>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
-               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp 400w,
-               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_9b0a743e4e20aceed278c5e4a3f49cef.webp 760w,
-               /talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_7e8a51d96c4868d60282f46be088b8c1.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sarax - An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Indoor Localization using OptiTrack, PX4 Autopilot, and ROS 2</title>
-      <link>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</link>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
-               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp 400w,
-               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_a02b45e8714d919e41b55860153460c4.webp 760w,
-               /talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_c079190aeeab6014ec920adba33b1ad1.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Towards Aerial Maintenance Robot</title>
-      <link>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</guid>
-      <description>&lt;p&gt;During a visit to the &lt;a href=&#34;https://rpg.ifi.uzh.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics and Perception Group&lt;/a&gt; in the University of Zurich, I presented our work towards an Aerial Maintenance Robot.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Physically Interacting Maintenance Drones</title>
-      <link>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AeroSTREAM</title>
-      <link>https://ayhamalharbat.github.io/project/aerostream/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aerostream/</guid>
-      <description>&lt;p&gt;Built on lessons learned and experience gained upon successful implementation of twinning project AeroTwin, this proposal is conceived as an effort to stream AeroTwin positive effects on a network of Higher Education Institutions (HEIs) from Croatia and Bosnia and Herzegovina in order to enlarge capacity for research and innovation, and to prepare and establish a long lasting and integrated cooperation between those institutions and their partners in the local ecosystem. The essential support to reach this objective and prepare the network to facilitate future synergies with the European Universities initiative, will come from three internationally-leading HEIs from Spain, Czech Republic and the Netherlands. Additionally, increase of innovation capabilities of widening HEIs will be achieved through close cooperation with FADA-CATEC and Technological Corporation of Andalusia (CTA), leading European research and innovation intensive organizations, deeply involved in the most relevant EU initiatives and projects. The long lasting and integrated cooperation between institutions will be established in the field of autonomous aerial systems (AAS) applications, with emphasis on smart agriculture, forestry and logistics. The project objectives are i) integrated and long term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands, ii) increased scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and shared capacities with partners from Spain, Czech Republic, and the Netherlands, and iii) improved quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina. Particular set of actions is planned for achieving those objectives, such as common innovation strategy, staff exchange, experts visits, workshops and tutorials, hands‐on trainings, and PhD students co-mentoring.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;alt text&#34; srcset=&#34;
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_51e10d689bf8e5b144e333f8f53b0e8c.webp 400w,
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_e2d4e2835b4a5ec486dd51bc8a556a59.webp 760w,
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_51e10d689bf8e5b144e333f8f53b0e8c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;380&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h1 id=&#34;objectives&#34;&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;objective-1&#34;&gt;&lt;strong&gt;Objective 1&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Integrated and long-term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands in the field of autonomous aerial systems applications, with emphasis on smart agriculture, forestry, and logistics.&lt;/p&gt;
-&lt;p&gt;This Objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Identification of resources and challenges of w-HEIs&lt;/li&gt;
-&lt;li&gt;Preparation of an action plan for long term cooperation&lt;/li&gt;
-&lt;li&gt;Preparation to embark on the future European Universities Initiative&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objective-2&#34;&gt;&lt;strong&gt;Objective 2&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Increase in scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and share capacities with partners from Spain, Czech Republic, and the Netherlands.&lt;/p&gt;
-&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Raising scientific excellence&lt;/li&gt;
-&lt;li&gt;Promoting talent and preventing brain drain&lt;/li&gt;
-&lt;li&gt;Implementation of a shared infrastructure plan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objective-3&#34;&gt;&lt;strong&gt;Objective 3&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Improvement of quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina.&lt;/p&gt;
-&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Developing an innovation strategy&lt;/li&gt;
-&lt;li&gt;Strengthening innovation capacity&lt;/li&gt;
-&lt;li&gt;Mainstreaming entrepreneurial mind-set of researchers&lt;/li&gt;
-&lt;li&gt;Inducing cooperation with industry stakeholders-Science in society-Outreach to children, schools, and general public&lt;/li&gt;
-&lt;li&gt;Open Science&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Aerial Physical Interaction with Unmanned Aerial Robots</title>
-      <link>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AeroBlaster</title>
-      <link>https://ayhamalharbat.github.io/project/aeroblaster/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aeroblaster/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Will follow.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MARS4Earth</title>
-      <link>https://ayhamalharbat.github.io/project/mars4earth/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/mars4earth/</guid>
-      <description>&lt;p&gt;Current drone applications are limited to using drones for non-interactive tele-detection, &amp;ldquo;eyes and noses in the air&amp;rdquo;. The following breakthrough is tele-interaction, &amp;ldquo;hands in the air&amp;rdquo;. The MARS4Earth project aspires to develop the first autonomous and modular aerial manipulator that interacts physically with an outdoor operational environment in a safe, autonomous, efficient and cost-effective way. The research mainly focuses on the question of whether it is possible to develop a prototype of a modular and completely autonomous aerial manipulator that can physically interact with a realistic outdoor environment. In essence, the aerial manipulator acts as &amp;ldquo;arms and hands in the air&amp;rdquo;, which can be used for both active and passive aerial interaction. The applicability of this technology will be demonstrated in three chosen application domains, inspection and maintenance (maintenance of offshore windmill and cleaning solar panels), agriculture (selective treatment of plants and sample picking) and Safety and Security (active firefighting).&lt;/p&gt;
-&lt;p&gt;Funded by Netherlands Organisation for Scientific Research &lt;a href=&#34;https://www.nwo.nl/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWO&lt;/a&gt;. Grant Number: RAAK.PRO03.112&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ayhamalharbat.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ayhamalharbat.github.io/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/education/</guid>
-      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;This page summarizes my teaching activities.&lt;/p&gt;
-&lt;p&gt;Check &lt;a href=&#34;https://ayhamalharbat.github.io/students/students-list&#34;&gt;Students list&lt;/a&gt; for a summary of students supervision.&lt;/p&gt;
-&lt;h2 id=&#34;bachelor-courses&#34;&gt;Bachelor Courses&lt;/h2&gt;
-&lt;h4 id=&#34;modern-control&#34;&gt;Modern Control&lt;/h4&gt;
-&lt;p&gt;Starting with the fundamentals of Feedback Systems Modeling and Control Theory, and covering Adaptive Control.&lt;/p&gt;
-&lt;h4 id=&#34;modeling-and-control-of-drones&#34;&gt;Modeling and Control of Drones&lt;/h4&gt;
-&lt;p&gt;An introduction course to the modeling and control of multi-rotors drones, covering their kinematics, equations of motion, rotors models and actuation properties, position and velocity control, and of course the essential hardware and software aspects.&lt;/p&gt;
-&lt;h2 id=&#34;master-courses&#34;&gt;Master Courses&lt;/h2&gt;
-&lt;h4 id=&#34;control-for-uavs&#34;&gt;Control for UAVs&lt;/h4&gt;
-&lt;p&gt;In this course, I teach a lecture about Model Predictive Control of UAVs.&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    More details will follow.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ayhamalharbat.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/students/</guid>
-      <description>&lt;h1 id=&#34;list-of-supervised-students&#34;&gt;List of Supervised Students&lt;/h1&gt;
-&lt;hr&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    I am always open to supervising highly motivated students.
+How can we efficiently disseminate the knowledge acquired in this project to the business community and ensure ongoing knowledge development beyond the project&amp;rsquo;s completion?&lt;/p>
+&lt;h2 id="project-subsidy">Project subsidy:&lt;/h2>
+&lt;p>RAAK MKB (RAAK.MKB21.026)&lt;/p>
+&lt;hr>
+&lt;h1 id="project-updates">Project Updates&lt;/h1>
+&lt;h2 id="2025-07-08-project-kickoff">2025-07-08: Project Kickoff&lt;/h2>
+&lt;p>Check out this video from Tuesday, 08-07-2025, when we kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe src="https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+&lt;/iframe>
+&lt;/div></description></item><item><title>🎉🎉 Two papers accepted at ICUAS 2025</title><link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid><description>&lt;p>🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p>
+&lt;p>The first paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_2">External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a>&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p>
+&lt;p>Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p>
+&lt;p>The second paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_1">RL-based Control of UAS Subject to Significant Disturbance&lt;/a>&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p>
+&lt;p>I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p></description></item><item><title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title><link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title><link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Multirotor UAV—A Multidisciplinary Platform for Teaching Mechatronics Engineering</title><link>https://ayhamalharbat.github.io/publication/2025-1-sensors/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-1-sensors/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Developing and Testing Control and Navigation Algorithms for Aerial Robots with PX4 and ROS 2</title><link>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</link><pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/developing-and-testing-control-and-navigation-algorithms-for-aerial-robots-with-px4-and-ros-2/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="discussion.JPG" alt="screen reader text" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Model Predictive Control for Multi-Rotor Aerial Vehicle</title><link>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</link><pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
+/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_32bb81b05e4d46389a8e5305b3e9ba3c.webp 400w,
+/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_ec7d83ac62f10493723fbed169e225d5.webp 760w,
+/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://ayhamalharbat.github.io/talk/model-predictive-control-for-multi-rotor-aerial-vehicle/discussion_hu3d63da2bb6492e05fa560e1344fc8130_3897110_32bb81b05e4d46389a8e5305b3e9ba3c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title><link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid><description>&lt;p>Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p></description></item><item><title>Transforming Offshore Maintenance with Aerial Robotics</title><link>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</link><pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="presenting" srcset="
+/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_ce1c124822dc29eb96799060d9efee8e.webp 400w,
+/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_eea1f6de0032dffb21413afdb27c94f0.webp 760w,
+/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://ayhamalharbat.github.io/talk/transforming-offshore-maintenance-with-aerial-robotics/IMG_2374_hu529f028befeb7b218854ab33ad6f88c6_2487556_ce1c124822dc29eb96799060d9efee8e.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Inspection and Maintenance of Wind Turbines with Aerial Robots</title><link>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</link><pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
+/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_a49e34b8a5b87653b251097328839558.webp 400w,
+/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_79e0a91b84b9b5bd6ad516dfc1381718.webp 760w,
+/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://ayhamalharbat.github.io/talk/inspection-and-maintenance-of-wind-turbines-with-aerial-robots/lab-tour_hue059f376ef70d79389976330d945fe11_4343296_a49e34b8a5b87653b251097328839558.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Sarax - An Open-Source Software/Hardware Framework for Aerial Manipulators</title><link>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</link><pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/sarax-an-open-source-software/hardware-framework-for-aerial-manipulators/</guid><description/></item><item><title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title><link>https://ayhamalharbat.github.io/publication/2024-icuas/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Indoor Localization using OptiTrack, PX4 Autopilot, and ROS 2</title><link>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</link><pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
+/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_8b734be65a74f35f65234f5b6b42697a.webp 400w,
+/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_a9ce979199f5fe58a9dfd2eda762fb2e.webp 760w,
+/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://ayhamalharbat.github.io/talk/indoor-localization-using-optitrack-px4-autopilot-and-ros-2/experiment_huaaefd33362de667f46b4b481fc04f36b_2334078_8b734be65a74f35f65234f5b6b42697a.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Towards Aerial Maintenance Robot</title><link>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</link><pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/towards-aerial-maintenance-robot/</guid><description>&lt;p>During a visit to the &lt;a href="https://rpg.ifi.uzh.ch/" target="_blank" rel="noopener">Robotics and Perception Group&lt;/a> in the University of Zurich, I presented our work towards an Aerial Maintenance Robot.&lt;/p></description></item><item><title>Physically Interacting Maintenance Drones</title><link>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/physically-interacting-maintenance-drones/</guid><description/></item><item><title>AeroSTREAM</title><link>https://ayhamalharbat.github.io/project/aerostream/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aerostream/</guid><description>&lt;p>Built on lessons learned and experience gained upon successful implementation of twinning project AeroTwin, this proposal is conceived as an effort to stream AeroTwin positive effects on a network of Higher Education Institutions (HEIs) from Croatia and Bosnia and Herzegovina in order to enlarge capacity for research and innovation, and to prepare and establish a long lasting and integrated cooperation between those institutions and their partners in the local ecosystem. The essential support to reach this objective and prepare the network to facilitate future synergies with the European Universities initiative, will come from three internationally-leading HEIs from Spain, Czech Republic and the Netherlands. Additionally, increase of innovation capabilities of widening HEIs will be achieved through close cooperation with FADA-CATEC and Technological Corporation of Andalusia (CTA), leading European research and innovation intensive organizations, deeply involved in the most relevant EU initiatives and projects. The long lasting and integrated cooperation between institutions will be established in the field of autonomous aerial systems (AAS) applications, with emphasis on smart agriculture, forestry and logistics. The project objectives are i) integrated and long term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands, ii) increased scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and shared capacities with partners from Spain, Czech Republic, and the Netherlands, and iii) improved quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina. Particular set of actions is planned for achieving those objectives, such as common innovation strategy, staff exchange, experts visits, workshops and tutorials, hands‐on trainings, and PhD students co-mentoring.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="alt text" srcset="
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_f91b6c517f01c76dae912229607f7268.webp 400w,
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_944371369bfcd7b4bab5a11171c674d0.webp 760w,
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ayhamalharbat.github.io/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_f91b6c517f01c76dae912229607f7268.webp"
+width="760"
+height="380"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h1 id="objectives">&lt;strong>Objectives&lt;/strong>&lt;/h1>
+&lt;h2 id="objective-1">&lt;strong>Objective 1&lt;/strong>&lt;/h2>
+&lt;p>Integrated and long-term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands in the field of autonomous aerial systems applications, with emphasis on smart agriculture, forestry, and logistics.&lt;/p>
+&lt;p>This Objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Identification of resources and challenges of w-HEIs&lt;/li>
+&lt;li>Preparation of an action plan for long term cooperation&lt;/li>
+&lt;li>Preparation to embark on the future European Universities Initiative&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective-2">&lt;strong>Objective 2&lt;/strong>&lt;/h2>
+&lt;p>Increase in scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and share capacities with partners from Spain, Czech Republic, and the Netherlands.&lt;/p>
+&lt;p>This objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Raising scientific excellence&lt;/li>
+&lt;li>Promoting talent and preventing brain drain&lt;/li>
+&lt;li>Implementation of a shared infrastructure plan&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective-3">&lt;strong>Objective 3&lt;/strong>&lt;/h2>
+&lt;p>Improvement of quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina.&lt;/p>
+&lt;p>This objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Developing an innovation strategy&lt;/li>
+&lt;li>Strengthening innovation capacity&lt;/li>
+&lt;li>Mainstreaming entrepreneurial mind-set of researchers&lt;/li>
+&lt;li>Inducing cooperation with industry stakeholders-Science in society-Outreach to children, schools, and general public&lt;/li>
+&lt;li>Open Science&lt;/li>
+&lt;/ul></description></item><item><title>Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title><link>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</link><pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/three-fundamental-paradigms-for-aerial-physical-interaction-using-nonlinear-model-predictive-control/</guid><description/></item><item><title>Towards Aerial Physical Interaction with Unmanned Aerial Robots</title><link>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/towards-aerial-physical-interaction-with-unmanned-aerial-robots/</guid><description/></item><item><title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title><link>https://ayhamalharbat.github.io/publication/2022-icuas/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>AeroBlaster</title><link>https://ayhamalharbat.github.io/project/aeroblaster/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aeroblaster/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Will follow.
+&lt;/div>
+&lt;/div></description></item><item><title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title><link>https://ayhamalharbat.github.io/publication/2021-tes/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>MARS4Earth</title><link>https://ayhamalharbat.github.io/project/mars4earth/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/mars4earth/</guid><description>&lt;p>Current drone applications are limited to using drones for non-interactive tele-detection, &amp;ldquo;eyes and noses in the air&amp;rdquo;. The following breakthrough is tele-interaction, &amp;ldquo;hands in the air&amp;rdquo;. The MARS4Earth project aspires to develop the first autonomous and modular aerial manipulator that interacts physically with an outdoor operational environment in a safe, autonomous, efficient and cost-effective way. The research mainly focuses on the question of whether it is possible to develop a prototype of a modular and completely autonomous aerial manipulator that can physically interact with a realistic outdoor environment. In essence, the aerial manipulator acts as &amp;ldquo;arms and hands in the air&amp;rdquo;, which can be used for both active and passive aerial interaction. The applicability of this technology will be demonstrated in three chosen application domains, inspection and maintenance (maintenance of offshore windmill and cleaning solar panels), agriculture (selective treatment of plants and sample picking) and Safety and Security (active firefighting).&lt;/p>
+&lt;p>Funded by Netherlands Organisation for Scientific Research &lt;a href="https://www.nwo.nl/en" target="_blank" rel="noopener">NWO&lt;/a>. Grant Number: RAAK.PRO03.112&lt;/p></description></item><item><title/><link>https://ayhamalharbat.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://ayhamalharbat.github.io/education/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/education/</guid><description>&lt;h1 id="education">Education&lt;/h1>
+&lt;hr>
+&lt;p>This page summarizes my teaching activities.&lt;/p>
+&lt;p>Check &lt;a href="https://ayhamalharbat.github.io/students/students-list">Students list&lt;/a> for a summary of students supervision.&lt;/p>
+&lt;h2 id="bachelor-courses">Bachelor Courses&lt;/h2>
+&lt;h4 id="modern-control">Modern Control&lt;/h4>
+&lt;p>Starting with the fundamentals of Feedback Systems Modeling and Control Theory, and covering Adaptive Control.&lt;/p>
+&lt;h4 id="modeling-and-control-of-drones">Modeling and Control of Drones&lt;/h4>
+&lt;p>An introduction course to the modeling and control of multi-rotors drones, covering their kinematics, equations of motion, rotors models and actuation properties, position and velocity control, and of course the essential hardware and software aspects.&lt;/p>
+&lt;h2 id="master-courses">Master Courses&lt;/h2>
+&lt;h4 id="control-for-uavs">Control for UAVs&lt;/h4>
+&lt;p>In this course, I teach a lecture about Model Predictive Control of UAVs.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+More details will follow.
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://ayhamalharbat.github.io/students/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/students/</guid><description>&lt;h1 id="list-of-supervised-students">List of Supervised Students&lt;/h1>
+&lt;hr>
+&lt;div class="alert alert-note">
+&lt;div>
+I am always open to supervising highly motivated students.
 If you are interested in working with me during your internship, thesis, or research visit at Saxion University or University of Twente:
 Do not hesitate to contact me to discuss the possibilities.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;current-master-students&#34;&gt;Current Master Students&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/camiel-van-duijn-9200a7162&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Camiel van Duijn&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/thijs-hof-62006b181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thijs Hof&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;, (Co-supervised with Niccolò Botteghi)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/waleed-sharkawy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Waleed Elfieky&lt;/a&gt;, from &lt;a href=&#34;https://unige.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Genoa&lt;/a&gt;: &amp;ldquo;Vision-based Motion Planning for Aerial Physical Interaction&amp;rdquo;, (Co-supervised with Benjamin van Manen)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ferdi-cakin-039b4b270/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferdi Cakin&lt;/a&gt;, from &lt;a href=&#34;https://www.insa-hautsdefrance.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSA Hauts-de-France&lt;/a&gt;: &amp;ldquo;PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots&amp;rdquo;, (Co-supervised with Kousheek Chakraborty &amp;amp; Youssef Aboudorra)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://de.linkedin.com/in/yehia-moustafa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yehia Moustafa&lt;/a&gt;, from &lt;a href=&#34;https://www.uni-hannover.de/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leibniz University Hannover&lt;/a&gt;: &amp;ldquo;Predictive Sampling Framework for Aerial Physical Interaction Control&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;h2 id=&#34;former-students&#34;&gt;Former Students&lt;/h2&gt;
-&lt;h3 id=&#34;master-students&#34;&gt;Master Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/michele-brusadin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michele Brusadin&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;RL-based Control of UASs Subject to Significant Disturbances and Vision Constraints&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/mayuresh-pachore-88b71018a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mayuresh Pachore&lt;/a&gt;, from &lt;a href=&#34;https://www.unibo.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bologna&lt;/a&gt;: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/elmar-cheung-3b417436a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elmar Cheung&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;, (Co-supervised with Camille Buschman)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://it.linkedin.com/in/gabriele-ruscelli-903977276&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriele Ruscelli&lt;/a&gt;, from &lt;a href=&#34;https://www.unibo.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bologna&lt;/a&gt;: &amp;ldquo;External Wrench Estimation of Aerial Robot Exploiting a Learned Model&amp;rdquo;.
-&lt;ul&gt;
-&lt;li&gt;We published &lt;a href=&#34;https://arxiv.org/pdf/2504.08156&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; together 🎉!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gr.linkedin.com/in/manouselis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pantelis Manouselis&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;.
-&lt;ul&gt;
-&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;🎉!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/rohit-aggarwal710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rohit Aggarwal&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Data-driven Modelling and Control of Multi-rotor Aerial Vehicles&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/louis-nelissen-627934158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Louis Nelissen&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/ddlogmans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniël Logmans&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Friction-aware Nonlinear Model Predictive Control for Aerial Physical Interaction tasks&amp;rdquo;.
-&lt;ul&gt;
-&lt;li&gt;Who is now &lt;a href=&#34;https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my colleague at the SMART research group in Saxion&lt;/a&gt;🎉!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/%EC%9B%85-%EA%B9%80-1b6b42206/?locale=en_US&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Woong Kim&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;Modelling of a 3-DOF Robot Arm for Physical Interaction&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/vishakha-p-a1592213b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vishakha Patel&lt;/a&gt;, from &lt;a href=&#34;https://www.utwente.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Twente&lt;/a&gt;: &amp;ldquo;A Comparative Study on the Optimal Use of a Fully-actuated Multi-rotor Aerial Robots&amp;rdquo;,  (Co-supervised with Hanieh Esmaeeli).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;bachelor-students&#34;&gt;Bachelor Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/jop-te-riet-ook-genaamd-scholten-4686731a3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jop te Riet Scholten&lt;/a&gt;, from Saxion University.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/coen-heerink-a052b9172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coen Heerink&lt;/a&gt;, from Saxion University.&lt;/li&gt;
-&lt;li&gt;Leticia Daniel Roldan, from Saxion University.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nl.linkedin.com/in/sigmar-van-druten-619143154&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sigmar van Druten&lt;/a&gt;, from Saxion University.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="current-master-students">Current Master Students&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/camiel-van-duijn-9200a7162" target="_blank" rel="noopener">Camiel van Duijn&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/thijs-hof-62006b181/" target="_blank" rel="noopener">Thijs Hof&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;, (Co-supervised with Niccolò Botteghi)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/waleed-sharkawy/" target="_blank" rel="noopener">Waleed Elfieky&lt;/a>, from &lt;a href="https://unige.it/en" target="_blank" rel="noopener">University of Genoa&lt;/a>: &amp;ldquo;Vision-based Motion Planning for Aerial Physical Interaction&amp;rdquo;, (Co-supervised with Benjamin van Manen)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/ferdi-cakin-039b4b270/" target="_blank" rel="noopener">Ferdi Cakin&lt;/a>, from &lt;a href="https://www.insa-hautsdefrance.fr/en" target="_blank" rel="noopener">INSA Hauts-de-France&lt;/a>: &amp;ldquo;PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots&amp;rdquo;, (Co-supervised with Kousheek Chakraborty &amp;amp; Youssef Aboudorra)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://de.linkedin.com/in/yehia-moustafa" target="_blank" rel="noopener">Yehia Moustafa&lt;/a>, from &lt;a href="https://www.uni-hannover.de/en/" target="_blank" rel="noopener">Leibniz University Hannover&lt;/a>: &amp;ldquo;Predictive Sampling Framework for Aerial Physical Interaction Control&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="former-students">Former Students&lt;/h2>
+&lt;h3 id="master-students">Master Students&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/michele-brusadin/" target="_blank" rel="noopener">Michele Brusadin&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;RL-based Control of UASs Subject to Significant Disturbances and Vision Constraints&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/mayuresh-pachore-88b71018a/" target="_blank" rel="noopener">Mayuresh Pachore&lt;/a>, from &lt;a href="https://www.unibo.it/en" target="_blank" rel="noopener">University of Bologna&lt;/a>: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/elmar-cheung-3b417436a" target="_blank" rel="noopener">Elmar Cheung&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots&amp;rdquo;, (Co-supervised with Camille Buschman)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://it.linkedin.com/in/gabriele-ruscelli-903977276" target="_blank" rel="noopener">Gabriele Ruscelli&lt;/a>, from &lt;a href="https://www.unibo.it/en" target="_blank" rel="noopener">University of Bologna&lt;/a>: &amp;ldquo;External Wrench Estimation of Aerial Robot Exploiting a Learned Model&amp;rdquo;.
+&lt;ul>
+&lt;li>We published &lt;a href="https://arxiv.org/pdf/2504.08156" target="_blank" rel="noopener">this paper&lt;/a> together 🎉!&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://gr.linkedin.com/in/manouselis" target="_blank" rel="noopener">Pantelis Manouselis&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms&amp;rdquo;.
+&lt;ul>
+&lt;li>Who is now &lt;a href="https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff" target="_blank" rel="noopener">my colleague at the SMART research group in Saxion&lt;/a>🎉!&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/rohit-aggarwal710" target="_blank" rel="noopener">Rohit Aggarwal&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Data-driven Modelling and Control of Multi-rotor Aerial Vehicles&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/louis-nelissen-627934158" target="_blank" rel="noopener">Louis Nelissen&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/ddlogmans/" target="_blank" rel="noopener">Daniël Logmans&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Friction-aware Nonlinear Model Predictive Control for Aerial Physical Interaction tasks&amp;rdquo;.
+&lt;ul>
+&lt;li>Who is now &lt;a href="https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics#staff" target="_blank" rel="noopener">my colleague at the SMART research group in Saxion&lt;/a>🎉!&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/%EC%9B%85-%EA%B9%80-1b6b42206/?locale=en_US" target="_blank" rel="noopener">Woong Kim&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Modelling of a 3-DOF Robot Arm for Physical Interaction&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli).&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/vishakha-p-a1592213b/" target="_blank" rel="noopener">Vishakha Patel&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;A Comparative Study on the Optimal Use of a Fully-actuated Multi-rotor Aerial Robots&amp;rdquo;, (Co-supervised with Hanieh Esmaeeli).&lt;/li>
+&lt;/ul>
+&lt;h3 id="bachelor-students">Bachelor Students&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/jop-te-riet-ook-genaamd-scholten-4686731a3" target="_blank" rel="noopener">Jop te Riet Scholten&lt;/a>, from Saxion University.&lt;/li>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/coen-heerink-a052b9172" target="_blank" rel="noopener">Coen Heerink&lt;/a>, from Saxion University.&lt;/li>
+&lt;li>Leticia Daniel Roldan, from Saxion University.&lt;/li>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/sigmar-van-druten-619143154" target="_blank" rel="noopener">Sigmar van Druten&lt;/a>, from Saxion University.&lt;/li>
+&lt;/ul></description></item></channel></rss>

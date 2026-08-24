@@ -1,303 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aerial Physical Interaction | Ayham Alharbat</title>
-    <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
-      <atom:link href="https://ayhamalharbat.github.io/tag/aerial-physical-interaction/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aerial Physical Interaction</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
-      <title>Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link>
-    </image>
-    
-    <item>
-      <title>AEROWIND</title>
-      <link>https://ayhamalharbat.github.io/project/aerowind/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aerowind/</guid>
-      <description>&lt;p&gt;Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p&gt;
-&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
-&lt;p&gt;RAAK PRO (RAAK.PRO06.091)&lt;/p&gt;
-&lt;hr&gt;
-&lt;!-- # Project Updates --&gt;</description>
-    </item>
-    
-    <item>
-      <title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MAESTRO-Drone</title>
-      <link>https://ayhamalharbat.github.io/project/maestro/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/maestro/</guid>
-      <description>&lt;p&gt;In 2024, the Dutch government announced plans to make offshore wind the primary energy source by 2032, targeting 21 GW of installed capacity, with projections reaching up to 72 GW by 2050 to meet climate-neutral goals. However, offshore wind turbines (WTs) face operational issues such as cavitation, bird strikes, and corrosion, which compromise energy output. Effective inspection and maintenance (I&amp;amp;M) are critical but currently rely on manual rope access methods, which are expensive, dangerous, and weather-dependent. With more turbines coming online and fewer skilled personnel available, scalable and safer alternatives are urgently needed.&lt;/p&gt;
-&lt;h1 id=&#34;problem-statement-and-context&#34;&gt;Problem statement and context&lt;/h1&gt;
-&lt;p&gt;Aerial robots offer a promising solution, especially as they evolve to handle physical interaction tasks. Yet, most commercial drones are designed for specific uses, making them financially inaccessible for small and medium-sized enterprises (SMEs) that provide I&amp;amp;M services. This project, in collaboration with SMEs, innovation clusters, and research institutions, aims to develop a modular drone system adaptable to various tasks. By reducing operational costs, enhancing safety, and supporting efficient green energy production, the initiative seeks to accelerate the adoption of drone technologies in offshore wind and support the broader renewable energy transition.&lt;/p&gt;
-&lt;h1 id=&#34;research-questions&#34;&gt;Research questions&lt;/h1&gt;
-&lt;h2 id=&#34;main-research-question&#34;&gt;Main Research Question:&lt;/h2&gt;
-&lt;p&gt;“How can we develop a versatile modular autonomous aerial robot that can be easily and intuitively deployed in offshore environments for inspecting and maintaining wind turbines?”&lt;/p&gt;
-&lt;h2 id=&#34;sub-research-questions&#34;&gt;Sub-research Questions:&lt;/h2&gt;
-&lt;p&gt;What is the most important set of user requirements to develop and deploy a versatile autonomous aerial robot for offshore operations? What are the corresponding functional and non-functional requirements?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aerial Physical Interaction | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link><atom:link href="https://ayhamalharbat.github.io/tag/aerial-physical-interaction/index.xml" rel="self" type="application/rss+xml"/><description>Aerial Physical Interaction</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/tag/aerial-physical-interaction/</link></image><item><title>AEROWIND</title><link>https://ayhamalharbat.github.io/project/aerowind/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aerowind/</guid><description>&lt;p>Offshore wind energy is crucial for the EU&amp;rsquo;s green energy goals, but the sector faces challenges like harsh weather, maintenance personnel shortages, and costly logistics. To address this, advanced robotic technologies, especially collaborative drones, are being developed. These drones, designed for offshore wind turbine maintenance, could improve efficiency and reduce operational risks. Key technologies include morphing drones, intelligent mechatronic tools, and adaptive controllers for seamless collaboration. This project emphasizes solution-driven innovation, aiming to create drones that can autonomously handle complex tasks while supporting a sustainable business model for widespread industrial adoption.&lt;/p>
+&lt;h2 id="project-subsidy">Project subsidy:&lt;/h2>
+&lt;p>RAAK PRO (RAAK.PRO06.091)&lt;/p>
+&lt;hr>
+&lt;!-- # Project Updates --></description></item><item><title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link><pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>MAESTRO-Drone</title><link>https://ayhamalharbat.github.io/project/maestro/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/maestro/</guid><description>&lt;p>In 2024, the Dutch government announced plans to make offshore wind the primary energy source by 2032, targeting 21 GW of installed capacity, with projections reaching up to 72 GW by 2050 to meet climate-neutral goals. However, offshore wind turbines (WTs) face operational issues such as cavitation, bird strikes, and corrosion, which compromise energy output. Effective inspection and maintenance (I&amp;amp;M) are critical but currently rely on manual rope access methods, which are expensive, dangerous, and weather-dependent. With more turbines coming online and fewer skilled personnel available, scalable and safer alternatives are urgently needed.&lt;/p>
+&lt;h1 id="problem-statement-and-context">Problem statement and context&lt;/h1>
+&lt;p>Aerial robots offer a promising solution, especially as they evolve to handle physical interaction tasks. Yet, most commercial drones are designed for specific uses, making them financially inaccessible for small and medium-sized enterprises (SMEs) that provide I&amp;amp;M services. This project, in collaboration with SMEs, innovation clusters, and research institutions, aims to develop a modular drone system adaptable to various tasks. By reducing operational costs, enhancing safety, and supporting efficient green energy production, the initiative seeks to accelerate the adoption of drone technologies in offshore wind and support the broader renewable energy transition.&lt;/p>
+&lt;h1 id="research-questions">Research questions&lt;/h1>
+&lt;h2 id="main-research-question">Main Research Question:&lt;/h2>
+&lt;p>“How can we develop a versatile modular autonomous aerial robot that can be easily and intuitively deployed in offshore environments for inspecting and maintaining wind turbines?”&lt;/p>
+&lt;h2 id="sub-research-questions">Sub-research Questions:&lt;/h2>
+&lt;p>What is the most important set of user requirements to develop and deploy a versatile autonomous aerial robot for offshore operations? What are the corresponding functional and non-functional requirements?
 How can we develop standardized (hardware and software) interfaces to enable SMEs to deploy their inspection, maintenance, logistics, and data collection tools during their offshore operations using a modular aerial platform?
 How can we develop a mechanical design, controller, and path planner that would allow the MAESTRO-drone to conduct its offshore operations efficiently, effectively, and safely?
 How can we design a human-robot interface to operate a physically interactive drone for offshore operations that enhances user experience and task performance?
 How can the capabilities developed in this project, along with the existing contributions from SMEs, be seamlessly integrated to create a comprehensive prototype that meets predefined requirements?
-How can we efficiently disseminate the knowledge acquired in this project to the business community and ensure ongoing knowledge development beyond the project&amp;rsquo;s completion?&lt;/p&gt;
-&lt;h2 id=&#34;project-subsidy&#34;&gt;Project subsidy:&lt;/h2&gt;
-&lt;p&gt;RAAK MKB (RAAK.MKB21.026)&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;project-updates&#34;&gt;Project Updates&lt;/h1&gt;
-&lt;h2 id=&#34;2025-07-08-project-kickoff&#34;&gt;2025-07-08: Project Kickoff&lt;/h2&gt;
-&lt;p&gt;Check out this video from Tuesday, 08-07-2025, when we kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
-&lt;style&gt;
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-&lt;/style&gt;
-&lt;div class=&#34;video-container&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34;
-          title=&#34;YouTube video player&#34;
-          frameborder=&#34;0&#34;
-          allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
-          referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
-          allowfullscreen&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title>
-      <link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title>
-      <link>https://ayhamalharbat.github.io/publication/2024-icuas/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AeroSTREAM</title>
-      <link>https://ayhamalharbat.github.io/project/aerostream/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aerostream/</guid>
-      <description>&lt;p&gt;Built on lessons learned and experience gained upon successful implementation of twinning project AeroTwin, this proposal is conceived as an effort to stream AeroTwin positive effects on a network of Higher Education Institutions (HEIs) from Croatia and Bosnia and Herzegovina in order to enlarge capacity for research and innovation, and to prepare and establish a long lasting and integrated cooperation between those institutions and their partners in the local ecosystem. The essential support to reach this objective and prepare the network to facilitate future synergies with the European Universities initiative, will come from three internationally-leading HEIs from Spain, Czech Republic and the Netherlands. Additionally, increase of innovation capabilities of widening HEIs will be achieved through close cooperation with FADA-CATEC and Technological Corporation of Andalusia (CTA), leading European research and innovation intensive organizations, deeply involved in the most relevant EU initiatives and projects. The long lasting and integrated cooperation between institutions will be established in the field of autonomous aerial systems (AAS) applications, with emphasis on smart agriculture, forestry and logistics. The project objectives are i) integrated and long term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands, ii) increased scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and shared capacities with partners from Spain, Czech Republic, and the Netherlands, and iii) improved quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina. Particular set of actions is planned for achieving those objectives, such as common innovation strategy, staff exchange, experts visits, workshops and tutorials, hands‐on trainings, and PhD students co-mentoring.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;alt text&#34; srcset=&#34;
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_51e10d689bf8e5b144e333f8f53b0e8c.webp 400w,
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_e2d4e2835b4a5ec486dd51bc8a556a59.webp 760w,
-               /project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://ayhamalharbat.github.io/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_51e10d689bf8e5b144e333f8f53b0e8c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;380&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h1 id=&#34;objectives&#34;&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;objective-1&#34;&gt;&lt;strong&gt;Objective 1&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Integrated and long-term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands in the field of autonomous aerial systems applications, with emphasis on smart agriculture, forestry, and logistics.&lt;/p&gt;
-&lt;p&gt;This Objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Identification of resources and challenges of w-HEIs&lt;/li&gt;
-&lt;li&gt;Preparation of an action plan for long term cooperation&lt;/li&gt;
-&lt;li&gt;Preparation to embark on the future European Universities Initiative&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objective-2&#34;&gt;&lt;strong&gt;Objective 2&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Increase in scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and share capacities with partners from Spain, Czech Republic, and the Netherlands.&lt;/p&gt;
-&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Raising scientific excellence&lt;/li&gt;
-&lt;li&gt;Promoting talent and preventing brain drain&lt;/li&gt;
-&lt;li&gt;Implementation of a shared infrastructure plan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objective-3&#34;&gt;&lt;strong&gt;Objective 3&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Improvement of quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina.&lt;/p&gt;
-&lt;p&gt;This objective will be achieved through:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Developing an innovation strategy&lt;/li&gt;
-&lt;li&gt;Strengthening innovation capacity&lt;/li&gt;
-&lt;li&gt;Mainstreaming entrepreneurial mind-set of researchers&lt;/li&gt;
-&lt;li&gt;Inducing cooperation with industry stakeholders-Science in society-Outreach to children, schools, and general public&lt;/li&gt;
-&lt;li&gt;Open Science&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title>
-      <link>https://ayhamalharbat.github.io/publication/2022-icuas/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AeroBlaster</title>
-      <link>https://ayhamalharbat.github.io/project/aeroblaster/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/aeroblaster/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Will follow.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title>
-      <link>https://ayhamalharbat.github.io/publication/2021-tes/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MARS4Earth</title>
-      <link>https://ayhamalharbat.github.io/project/mars4earth/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/project/mars4earth/</guid>
-      <description>&lt;p&gt;Current drone applications are limited to using drones for non-interactive tele-detection, &amp;ldquo;eyes and noses in the air&amp;rdquo;. The following breakthrough is tele-interaction, &amp;ldquo;hands in the air&amp;rdquo;. The MARS4Earth project aspires to develop the first autonomous and modular aerial manipulator that interacts physically with an outdoor operational environment in a safe, autonomous, efficient and cost-effective way. The research mainly focuses on the question of whether it is possible to develop a prototype of a modular and completely autonomous aerial manipulator that can physically interact with a realistic outdoor environment. In essence, the aerial manipulator acts as &amp;ldquo;arms and hands in the air&amp;rdquo;, which can be used for both active and passive aerial interaction. The applicability of this technology will be demonstrated in three chosen application domains, inspection and maintenance (maintenance of offshore windmill and cleaning solar panels), agriculture (selective treatment of plants and sample picking) and Safety and Security (active firefighting).&lt;/p&gt;
-&lt;p&gt;Funded by Netherlands Organisation for Scientific Research &lt;a href=&#34;https://www.nwo.nl/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWO&lt;/a&gt;. Grant Number: RAAK.PRO03.112&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+How can we efficiently disseminate the knowledge acquired in this project to the business community and ensure ongoing knowledge development beyond the project&amp;rsquo;s completion?&lt;/p>
+&lt;h2 id="project-subsidy">Project subsidy:&lt;/h2>
+&lt;p>RAAK MKB (RAAK.MKB21.026)&lt;/p>
+&lt;hr>
+&lt;h1 id="project-updates">Project Updates&lt;/h1>
+&lt;h2 id="2025-07-08-project-kickoff">2025-07-08: Project Kickoff&lt;/h2>
+&lt;p>Check out this video from Tuesday, 08-07-2025, when we kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe src="https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+&lt;/iframe>
+&lt;/div></description></item><item><title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title><link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>ICUAS 2024 - Sarax: An Open-Source Software/Hardware Framework for Aerial Manipulators</title><link>https://ayhamalharbat.github.io/publication/2024-icuas/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2024-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>AeroSTREAM</title><link>https://ayhamalharbat.github.io/project/aerostream/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aerostream/</guid><description>&lt;p>Built on lessons learned and experience gained upon successful implementation of twinning project AeroTwin, this proposal is conceived as an effort to stream AeroTwin positive effects on a network of Higher Education Institutions (HEIs) from Croatia and Bosnia and Herzegovina in order to enlarge capacity for research and innovation, and to prepare and establish a long lasting and integrated cooperation between those institutions and their partners in the local ecosystem. The essential support to reach this objective and prepare the network to facilitate future synergies with the European Universities initiative, will come from three internationally-leading HEIs from Spain, Czech Republic and the Netherlands. Additionally, increase of innovation capabilities of widening HEIs will be achieved through close cooperation with FADA-CATEC and Technological Corporation of Andalusia (CTA), leading European research and innovation intensive organizations, deeply involved in the most relevant EU initiatives and projects. The long lasting and integrated cooperation between institutions will be established in the field of autonomous aerial systems (AAS) applications, with emphasis on smart agriculture, forestry and logistics. The project objectives are i) integrated and long term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands, ii) increased scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and shared capacities with partners from Spain, Czech Republic, and the Netherlands, and iii) improved quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina. Particular set of actions is planned for achieving those objectives, such as common innovation strategy, staff exchange, experts visits, workshops and tutorials, hands‐on trainings, and PhD students co-mentoring.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="alt text" srcset="
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_f91b6c517f01c76dae912229607f7268.webp 400w,
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_944371369bfcd7b4bab5a11171c674d0.webp 760w,
+/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ayhamalharbat.github.io/project/aerostream/featured_hu8429c81c4e070f2e6d90afaee1d1790f_18054_f91b6c517f01c76dae912229607f7268.webp"
+width="760"
+height="380"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h1 id="objectives">&lt;strong>Objectives&lt;/strong>&lt;/h1>
+&lt;h2 id="objective-1">&lt;strong>Objective 1&lt;/strong>&lt;/h2>
+&lt;p>Integrated and long-term cooperation between HEIs from Croatia and Bosnia and Herzegovina, with partners from Spain, Czech Republic, and the Netherlands in the field of autonomous aerial systems applications, with emphasis on smart agriculture, forestry, and logistics.&lt;/p>
+&lt;p>This Objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Identification of resources and challenges of w-HEIs&lt;/li>
+&lt;li>Preparation of an action plan for long term cooperation&lt;/li>
+&lt;li>Preparation to embark on the future European Universities Initiative&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective-2">&lt;strong>Objective 2&lt;/strong>&lt;/h2>
+&lt;p>Increase in scientific excellence profiles of HEIs from Croatia and Bosnia and Herzegovina in the field of autonomous aerial systems, and share capacities with partners from Spain, Czech Republic, and the Netherlands.&lt;/p>
+&lt;p>This objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Raising scientific excellence&lt;/li>
+&lt;li>Promoting talent and preventing brain drain&lt;/li>
+&lt;li>Implementation of a shared infrastructure plan&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective-3">&lt;strong>Objective 3&lt;/strong>&lt;/h2>
+&lt;p>Improvement of quality of innovation management, technology transfer and citizen involvement of HEIs from Croatia and Bosnia and Herzegovina.&lt;/p>
+&lt;p>This objective will be achieved through:&lt;/p>
+&lt;ul>
+&lt;li>Developing an innovation strategy&lt;/li>
+&lt;li>Strengthening innovation capacity&lt;/li>
+&lt;li>Mainstreaming entrepreneurial mind-set of researchers&lt;/li>
+&lt;li>Inducing cooperation with industry stakeholders-Science in society-Outreach to children, schools, and general public&lt;/li>
+&lt;li>Open Science&lt;/li>
+&lt;/ul></description></item><item><title>ICUAS 2022 - Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control</title><link>https://ayhamalharbat.github.io/publication/2022-icuas/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2022-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>AeroBlaster</title><link>https://ayhamalharbat.github.io/project/aeroblaster/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/aeroblaster/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Will follow.
+&lt;/div>
+&lt;/div></description></item><item><title>TES 2021 - Physical Interacting Aerial Robots for ‘In-Situ’ Inspection and Maintenance of Wind Turbine Blade</title><link>https://ayhamalharbat.github.io/publication/2021-tes/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2021-tes/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>MARS4Earth</title><link>https://ayhamalharbat.github.io/project/mars4earth/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/project/mars4earth/</guid><description>&lt;p>Current drone applications are limited to using drones for non-interactive tele-detection, &amp;ldquo;eyes and noses in the air&amp;rdquo;. The following breakthrough is tele-interaction, &amp;ldquo;hands in the air&amp;rdquo;. The MARS4Earth project aspires to develop the first autonomous and modular aerial manipulator that interacts physically with an outdoor operational environment in a safe, autonomous, efficient and cost-effective way. The research mainly focuses on the question of whether it is possible to develop a prototype of a modular and completely autonomous aerial manipulator that can physically interact with a realistic outdoor environment. In essence, the aerial manipulator acts as &amp;ldquo;arms and hands in the air&amp;rdquo;, which can be used for both active and passive aerial interaction. The applicability of this technology will be demonstrated in three chosen application domains, inspection and maintenance (maintenance of offshore windmill and cleaning solar panels), agriculture (selective treatment of plants and sample picking) and Safety and Security (active firefighting).&lt;/p>
+&lt;p>Funded by Netherlands Organisation for Scientific Research &lt;a href="https://www.nwo.nl/en" target="_blank" rel="noopener">NWO&lt;/a>. Grant Number: RAAK.PRO03.112&lt;/p></description></item></channel></rss>

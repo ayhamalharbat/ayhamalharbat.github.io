@@ -1,85 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News | Ayham Alharbat</title>
-    <link>https://ayhamalharbat.github.io/news/</link>
-      <atom:link href="https://ayhamalharbat.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ayhamalharbat.github.io/media/sharing.jpg</url>
-      <title>News</title>
-      <link>https://ayhamalharbat.github.io/news/</link>
-    </image>
-    
-    <item>
-      <title>🎉🚁 AEROWIND Project Kicked-off</title>
-      <link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.nwo.nl/en/projects/ziwsb88001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AEROWIND Project&lt;/a&gt; has kicked off!
-Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p&gt;
-&lt;p&gt;For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p&gt;
-&lt;p&gt;We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🚁 MAESTRO-Drone Project Kicked-off</title>
-      <link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid>
-      <description>&lt;p&gt;We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p&gt;
-&lt;style&gt;
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-&lt;/style&gt;
-&lt;div class=&#34;video-container&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt&#34;
-          title=&#34;YouTube video player&#34;
-          frameborder=&#34;0&#34;
-          allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
-          referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
-          allowfullscreen&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🎉 Two papers accepted at ICUAS 2025</title>
-      <link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid>
-      <description>&lt;p&gt;🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p&gt;
-&lt;p&gt;The first paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_2&#34;&gt;External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a&gt;&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p&gt;
-&lt;p&gt;Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p&gt;
-&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://ayhamalharbat.github.io/publication/icuas2025_1&#34;&gt;RL-based Control of UAS Subject to Significant Disturbance&lt;/a&gt;&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p&gt;
-&lt;p&gt;I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title>
-      <link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid>
-      <description>&lt;p&gt;Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/news/</link><atom:link href="https://ayhamalharbat.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>News</title><link>https://ayhamalharbat.github.io/news/</link></image><item><title>🎉🚁 AEROWIND Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid><description>&lt;p>&lt;a href="https://www.nwo.nl/en/projects/ziwsb88001" target="_blank" rel="noopener">AEROWIND Project&lt;/a> has kicked off!
+Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p>
+&lt;p>For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p>
+&lt;p>We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p></description></item><item><title>🎉🚁 MAESTRO-Drone Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid><description>&lt;p>We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe src="https://www.youtube.com/embed/dYcRn2cZbmA?si=hwnDoSVC17-cUZlt"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+&lt;/iframe>
+&lt;/div></description></item><item><title>🎉🎉 Two papers accepted at ICUAS 2025</title><link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid><description>&lt;p>🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p>
+&lt;p>The first paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_2">External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a>&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p>
+&lt;p>Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p>
+&lt;p>The second paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_1">RL-based Control of UAS Subject to Significant Disturbance&lt;/a>&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p>
+&lt;p>I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p></description></item><item><title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title><link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid><description>&lt;p>Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p></description></item></channel></rss>
