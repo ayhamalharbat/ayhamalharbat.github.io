@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>maestro-drone | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/tag/maestro-drone/</link><atom:link href="https://ayhamalharbat.github.io/tag/maestro-drone/index.xml" rel="self" type="application/rss+xml"/><description>maestro-drone</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>maestro-drone</title><link>https://ayhamalharbat.github.io/tag/maestro-drone/</link></image><item><title>🎉🚁 MAESTRO-Drone Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid><description>&lt;p>We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>maestro-drone | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/tag/maestro-drone/</link><atom:link href="https://ayhamalharbat.github.io/tag/maestro-drone/index.xml" rel="self" type="application/rss+xml"/><description>maestro-drone</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>maestro-drone</title><link>https://ayhamalharbat.github.io/tag/maestro-drone/</link></image><item><title>Wind Turbine Experiment</title><link>https://ayhamalharbat.github.io/news/wind-turbine-experiment/</link><pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/wind-turbine-experiment/</guid><description>&lt;p>Another milestone in Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences!&lt;/p>
+&lt;p>We tested our aerial robot Sarax with a live wind turbine in Eemshaven, Netherlands, by the (very windy) North Sea, in a Physical Interaction Experiment (for Inspection and Maintenance tasks). Testing the robot, control and autonomy stack,and getting new insight and lessons from the operational environment.&lt;/p>
+&lt;p>This marks an important milestone in our mission to contribute to the Netherlands Energy Transition goals. Together with our partners, we are developing Aerial Robotics Technologies (in Perception, Localisation, Autonomy and Control) for Inspection and Maintenance of offshore Wind Turbines.&lt;/p>
+&lt;p>This test was facilitated by the &lt;a href="https://ayhamalharbat.github.io/project/maestro/">Maestro-Drone&lt;/a>, AlFusION, and &lt;a href="https://ayhamalharbat.github.io/project/aerowind/">AEROWIND&lt;/a> projects, funded by Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, and the Smart Maintenance at Sea (SMAS) Project.&lt;/p>
+&lt;p>Our students Yehia Moustafa, Camiel van Duijn, Thijs Hof, Waleed Elfieky, Ferdi Cakin got a chance to experience how their BSc and MSc projects can solve real world challenges and contribute towards a sustainable future.&lt;/p>
+&lt;p>The work was the accumulation of many years of team work in Smart Mechatronics And RoboTics (SMART) Research Group and with our students and partners. I would like to thank everyone who contributed to this milestone!&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cyC6RwrqDhQ?si=EZUPVnw3GVz1JHkp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;/div></description></item><item><title>🎉🚁 AEROWIND Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/aerowind-project-kicked-off/</guid><description>&lt;p>&lt;a href="https://www.nwo.nl/en/projects/ziwsb88001" target="_blank" rel="noopener">AEROWIND Project&lt;/a> has kicked off!
+Today, we kicked off the research project AEROWIND, together with our partners from the industry and academia, with the first consortium meeting, followed by a demo of AeroBlaster, our surface preparation aerial robot.&lt;/p>
+&lt;p>For the next 4 years, the Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences with our partners will continue to investigate the use of Collaborative Omni directional Aerial Robots in the Inspection and Maintenance of Offshore Wind Turbines.&lt;/p>
+&lt;p>We are excited to partner with an amazing consortium that includes solutions providers, technology developers, facilities managers, innovation hubs, and knowledge developers.&lt;/p></description></item><item><title>🎉🚁 MAESTRO-Drone Project Kicked-off</title><link>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/maestro-drone-project-kicked-off/</guid><description>&lt;p>We officially kicked off the MAESTRO-Drone project with the first consortium meeting and the first series of field experiments with our Aerial Robot in the windy environment by the North Sea in Eemshaven, the Netherlands.&lt;/p>
 &lt;style>
 .video-container {
 position: relative;
