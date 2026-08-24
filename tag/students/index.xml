@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Students | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/tag/students/</link><atom:link href="https://ayhamalharbat.github.io/tag/students/index.xml" rel="self" type="application/rss+xml"/><description>Students</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Students</title><link>https://ayhamalharbat.github.io/tag/students/</link></image><item><title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title><link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid><description>&lt;p>Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Students | Ayham Alharbat</title><link>https://ayhamalharbat.github.io/tag/students/</link><atom:link href="https://ayhamalharbat.github.io/tag/students/index.xml" rel="self" type="application/rss+xml"/><description>Students</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Students</title><link>https://ayhamalharbat.github.io/tag/students/</link></image><item><title>Wind Turbine Experiment</title><link>https://ayhamalharbat.github.io/news/wind-turbine-experiment/</link><pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/wind-turbine-experiment/</guid><description>&lt;p>Another milestone in Smart Mechatronics And RoboTics (SMART) Research Group in Saxion University of Applied Sciences!&lt;/p>
+&lt;p>We tested our aerial robot Sarax with a live wind turbine in Eemshaven, Netherlands, by the (very windy) North Sea, in a Physical Interaction Experiment (for Inspection and Maintenance tasks). Testing the robot, control and autonomy stack,and getting new insight and lessons from the operational environment.&lt;/p>
+&lt;p>This marks an important milestone in our mission to contribute to the Netherlands Energy Transition goals. Together with our partners, we are developing Aerial Robotics Technologies (in Perception, Localisation, Autonomy and Control) for Inspection and Maintenance of offshore Wind Turbines.&lt;/p>
+&lt;p>This test was facilitated by the &lt;a href="https://ayhamalharbat.github.io/project/maestro/">Maestro-Drone&lt;/a>, AlFusION, and &lt;a href="https://ayhamalharbat.github.io/project/aerowind/">AEROWIND&lt;/a> projects, funded by Nationaal Regieorgaan Praktijkgericht Onderzoek SIA, and the Smart Maintenance at Sea (SMAS) Project.&lt;/p>
+&lt;p>Our students Yehia Moustafa, Camiel van Duijn, Thijs Hof, Waleed Elfieky, Ferdi Cakin got a chance to experience how their BSc and MSc projects can solve real world challenges and contribute towards a sustainable future.&lt;/p>
+&lt;p>The work was the accumulation of many years of team work in Smart Mechatronics And RoboTics (SMART) Research Group and with our students and partners. I would like to thank everyone who contributed to this milestone!&lt;/p>
+&lt;style>
+.video-container {
+position: relative;
+padding-bottom: 56.25%; /* 16:9 ratio */
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.video-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+&lt;/style>
+&lt;div class="video-container">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cyC6RwrqDhQ?si=EZUPVnw3GVz1JHkp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;/div></description></item><item><title>🎉🎉 Two papers accepted at ICUAS 2025</title><link>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/</guid><description>&lt;p>🎉 I&amp;rsquo;m happy to share that we will present two papers at the upcoming ICUAS conference in North Carolina, USA!&lt;/p>
+&lt;p>The first paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_2">External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a>&amp;rdquo;, by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.&lt;/p>
+&lt;p>Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉&lt;/p>
+&lt;p>The second paper, &amp;ldquo;&lt;a href="https://ayhamalharbat.github.io/publication/icuas2025_1">RL-based Control of UAS Subject to Significant Disturbance&lt;/a>&amp;rdquo;, by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.&lt;/p>
+&lt;p>I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.&lt;/p></description></item><item><title>ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model</title><link>https://ayhamalharbat.github.io/publication/2025-3-icuas/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-3-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance</title><link>https://ayhamalharbat.github.io/publication/2025-2-icuas/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-2-icuas/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!</title><link>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</link><pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/</guid><description>&lt;p>Congratuations to Pantelis for graduating his MSc in Robotics, Cum Laude, from the University of Twente. Pantelis got a grade of 9.0 for his thesis that investigated &amp;ldquo;Hybrid Aerodynamic Interference Aware Model for Multi-Rotor Platforms.&amp;rdquo; 🎉&lt;/p></description></item></channel></rss>

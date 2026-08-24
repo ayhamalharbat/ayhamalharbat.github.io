@@ -301,6 +301,68 @@ If you are interested in working with me during your internship, thesis, or rese
 Do not hesitate to contact me to discuss the possibilities.
 &lt;/div>
 &lt;/div>
+&lt;hr>
+&lt;div class="student-news" style="margin-bottom: 2rem;">
+&lt;h3>Students-related News&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>May 20, 2026&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/wind-turbine-experiment/">Wind Turbine Experiment&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Apr 1, 2025&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/">🎉🎉 Two papers accepted at ICUAS 2025&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Dec 4, 2024&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/">🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;hr>
+&lt;div class="student-publications" style="margin-bottom: 2rem;">
+&lt;h3>Publications Co-authored by Students&lt;/h3>
+&lt;div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+A. Alharbat&lt;/span>, &lt;span >
+G. Ruscelli&lt;/span>, &lt;span >
+R. Diversi&lt;/span>, &lt;span >
+A. Mersha&lt;/span>
+&lt;/span>
+(2025).
+&lt;a href="https://ayhamalharbat.github.io/publication/2025-3-icuas/">ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model&lt;/a>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2504.08156" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ayhamalharbat.github.io/project/aerostream/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/ag-tFXD3h_o" target="_blank" rel="noopener">
+Video
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+K. Chakraborty&lt;/span>, &lt;span >
+T. Hof&lt;/span>, &lt;span >
+A. Alharbat&lt;/span>, &lt;span >
+A. Mersha&lt;/span>
+&lt;/span>
+(2025).
+&lt;a href="https://ayhamalharbat.github.io/publication/2025-2-icuas/">ICUAS 2025 - RL-based Control of UAS Subject to Significant Disturbance&lt;/a>.
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2504.08114" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ayhamalharbat.github.io/project/aerostream/">
+Project
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/ETapj0mE1kk" target="_blank" rel="noopener">
+Video
+&lt;/a>
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;hr>
 &lt;h2 id="current-master-students">Current Master Students&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://nl.linkedin.com/in/camiel-van-duijn-9200a7162" target="_blank" rel="noopener">Camiel van Duijn&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots&amp;rdquo;&lt;/li>
