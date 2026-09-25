@@ -43,7 +43,7 @@ Today, we kicked off the research project AEROWIND, together with our partners f
 &lt;h2 id="project-subsidy">Project subsidy:&lt;/h2>
 &lt;p>RAAK PRO (RAAK.PRO06.091)&lt;/p>
 &lt;hr>
-&lt;!-- # Project Updates --></description></item><item><title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid><description>&lt;p>During a visit to Dr. Alessandro Saccon in the &lt;a href="https://www.tue.nl/en/research/research-groups/robotics" target="_blank" rel="noopener">Robotics Research Group&lt;/a> in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p></description></item><item><title>Aerial Robotics for Complex Offshore Operations</title><link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link><pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid><description/></item><item><title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link><pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid><description>&lt;!--
+&lt;!-- # Project Updates --></description></item><item><title>Optimal Control Methods for Safe and Robust Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</link><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/optimal-control-methods-for-safe-and-robust-aerial-physical-interaction/</guid><description>&lt;p>During a visit to Dr. Alessandro Saccon in the &lt;a href="https://www.tue.nl/en/research/research-groups/robotics" target="_blank" rel="noopener">Robotics Research Group&lt;/a> in the TU Eindhoven, I presented our work on optimal control methods for aerial physical interaction.&lt;/p></description></item><item><title>Aerial Robotics for Complex Offshore Operations</title><link>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</link><pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/aerial-robotics-for-complex-offshore-operations/</guid><description/></item><item><title>RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction</title><link>https://ayhamalharbat.github.io/publication/2025-4-ral/</link><pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2025-4-ral/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -343,6 +343,10 @@ A. Mersha&lt;/span>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2504.08156" target="_blank" rel="noopener">
 PDF
 &lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/2025-3-icuas/cite.bib">
+Cite
+&lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ayhamalharbat.github.io/project/aerostream/">
 Project
 &lt;/a>
@@ -365,6 +369,10 @@ A. Mersha&lt;/span>
 &lt;p>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2504.08114" target="_blank" rel="noopener">
 PDF
+&lt;/a>
+&lt;a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+data-filename="/publication/2025-2-icuas/cite.bib">
+Cite
 &lt;/a>
 &lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ayhamalharbat.github.io/project/aerostream/">
 Project
