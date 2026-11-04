@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link><atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ayham Alharbat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2026 12:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link></image><item><title>From Observing To Working: PX4-Powered Aerial Manipulators</title><link>https://ayhamalharbat.github.io/talk/from-observing-to-working-px4-powered-aerial-manipulators/</link><pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/from-observing-to-working-px4-powered-aerial-manipulators/</guid><description>&lt;p>Recently, drones have evolved from passive observers into active workers, enabling them to carry out physical work in the sky. This lightning talk shares recent advances in Aerial Manipulators (AM), where flying robots physically interact with their surroundings to perform tasks such as inspecting and maintaining offshore wind turbines.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link><atom:link href="https://ayhamalharbat.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ayham Alharbat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://ayhamalharbat.github.io/media/sharing.jpg</url><title>Ayham Alharbat</title><link>https://ayhamalharbat.github.io/</link></image><item><title>🎉🎉 Luuk, Yehia, Ferdi, and Camiel have Graduated their MSc studies!</title><link>https://ayhamalharbat.github.io/news/luuk-yehia-ferdi-and-camiel-have-graduated-their-msc-studies/</link><pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/luuk-yehia-ferdi-and-camiel-have-graduated-their-msc-studies/</guid><description>&lt;p>Recently, four of our &lt;a href="https://ayhamalharbat.github.io/students">master students&lt;/a> have defended their master theses and graduated!&lt;/p>
+&lt;!-- * [Luuk Dijkman](https://nl.linkedin.com/in/luuk-dijkman-4611a3275), from [University of Twente](https://www.utwente.nl/), [RaM - Robotics and Mechatronics Research Group](https://www.ram.eemcs.utwente.nl/): "A Model-based Study of the Aerodynamic Interference Effect on the Control of a Multi-Rotor Omnidirectional Platform" (Co-supervised with Niccolò Botteghi, Barbara Bazzana, Chiara Gabellieri, and Antonio Franchi)
+* [Ferdi Cakin](https://www.linkedin.com/in/ferdi-cakin-039b4b270/), from [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/en): "PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots", (Co-supervised with Kousheek Chakraborty, Youssef Aboudorra, and Abeje Mersha)
+* [Yehia Moustafa](https://de.linkedin.com/in/yehia-moustafa), from [Leibniz University Hannover](https://www.uni-hannover.de/en/), [Institute of Mechatronic Systems](https://www.imes.uni-hannover.de/en/): "Predictive Sampling Framework for Aerial Physical Interaction Control" (Co-supervised with Daniel Logmans, Simon Ehlers, and Abeje Mersha)
+* [Camiel van Duijn](https://nl.linkedin.com/in/camiel-van-duijn-9200a7162), from [University of Twente](https://www.utwente.nl/), [RaM - Robotics and Mechatronics Research Group](https://www.ram.eemcs.utwente.nl/): "Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots" (Co-supervised with Chiara Gabellieri, Antonio Franchi, and Abeje Mersha) -->
+&lt;p>Congratuations to Luuk, Yehia, Ferdi, and Camiel, on this milestone! Many thanks to their co-supervisors Kousheek, Youssef, Barbara, Niccolò, Daniel, Simon, Chiara, Antonio, and Abeje.&lt;/p></description></item><item><title>From Observing To Working: PX4-Powered Aerial Manipulators</title><link>https://ayhamalharbat.github.io/talk/from-observing-to-working-px4-powered-aerial-manipulators/</link><pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/talk/from-observing-to-working-px4-powered-aerial-manipulators/</guid><description>&lt;p>Recently, drones have evolved from passive observers into active workers, enabling them to carry out physical work in the sky. This lightning talk shares recent advances in Aerial Manipulators (AM), where flying robots physically interact with their surroundings to perform tasks such as inspecting and maintaining offshore wind turbines.&lt;/p>
 &lt;p>We showcase how PX4 is accelerating the move from lab research to real-world deployment with the journey of a field test of our open AM framework, Sarax (github/sarax), physically interacting with a wind turbine by the North Sea (&lt;a href="youtu.be/Er0f0A97aG8">youtu.be/Er0f0A97aG8&lt;/a>). Alongside it, we highlight two research threads (with references to our open-source HW/SW and PRs). First, a PX4/Pixhawk compliant open standard-interface for active, high-power payloads (e.g. manipulator with a steel brush for surface maintenance) to enable modular AM. Second, developing PX4-powered omnidirectional and actively tilting-rotor aerial robots that enable dexterous physical tasks in windy environments.&lt;/p>
 &lt;p>We close with next steps and open issues for PX4-powered aerial manipulators and an open invitation for the community to join forces and shape this future together.&lt;/p></description></item><item><title>🎉🎉 Paper accepted at CoRL 2026</title><link>https://ayhamalharbat.github.io/news/paper-accepted-at-corl-2026/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/news/paper-accepted-at-corl-2026/</guid><description>&lt;p>🎉 Happy to share that our paper &lt;a href="https://ayhamalharbat.github.io/publication/2026-corl">“Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning”&lt;/a> has been accepted to CoRL 2026!&lt;/p>
 &lt;p>Kudos to the lead author, Kousheek, for his wonderful work and great collaboration!&lt;/p></description></item><item><title>CoRL 2026 - Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning</title><link>https://ayhamalharbat.github.io/publication/2026-corl/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><guid>https://ayhamalharbat.github.io/publication/2026-corl/</guid><description>&lt;!--
@@ -319,6 +324,7 @@ Do not hesitate to contact me to discuss the possibilities.
 &lt;div class="student-news" style="margin-bottom: 2rem;">
 &lt;h3>Students-related News&lt;/h3>
 &lt;ul>
+&lt;li>&lt;strong>Oct 22, 2026&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/luuk-yehia-ferdi-and-camiel-have-graduated-their-msc-studies/">🎉🎉 Luuk, Yehia, Ferdi, and Camiel have Graduated their MSc studies!&lt;/a>&lt;/li>
 &lt;li>&lt;strong>May 20, 2026&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/wind-turbine-experiment/">Wind Turbine Experiment&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Apr 1, 2025&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/two-papers-accepted-at-icuas-2025/">🎉🎉 Two papers accepted at ICUAS 2025&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Dec 4, 2024&lt;/strong>: &lt;a href="https://ayhamalharbat.github.io/news/my-msc-student-pantelis-manouselis-has-graduated-cum-laude/">🎉🎉 My MSc Student Pantelis Manouselis has Graduated, Cum Laude!&lt;/a>&lt;/li>
@@ -387,19 +393,29 @@ Video
 &lt;hr>
 &lt;h2 id="current-master-students">Current Master Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://nl.linkedin.com/in/camiel-van-duijn-9200a7162" target="_blank" rel="noopener">Camiel van Duijn&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;ul>
-&lt;li>&lt;a href="https://nl.linkedin.com/in/luuk-dijkman-4611a3275" target="_blank" rel="noopener">Luuk Dijkman&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Aerodynamic-Interference-Aware NMPC in Omnidirectional UAVs&amp;rdquo; (Co-supervised with Niccolò Botteghi and Barbara Bazzana)&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;ul>
 &lt;li>&lt;a href="https://www.linkedin.com/in/thijs-hof-62006b181/" target="_blank" rel="noopener">Thijs Hof&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks&amp;rdquo;, (Co-supervised with Niccolò Botteghi)&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;ul>
 &lt;li>&lt;a href="https://www.linkedin.com/in/waleed-sharkawy/" target="_blank" rel="noopener">Waleed Elfieky&lt;/a>, from &lt;a href="https://unige.it/en" target="_blank" rel="noopener">University of Genoa&lt;/a>: &amp;ldquo;Vision-based Motion Planning for Aerial Physical Interaction&amp;rdquo;, (Co-supervised with Benjamin van Manen)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>Arjen Temmink, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Posture-Dependent Dynamic Feasibility of Humanoid Robots under External Disturbances&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/ceyhun-ceylan-a8b369233" target="_blank" rel="noopener">Ceyhun Ceylan&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Model Predictive Control for Aerial Physical Interaction&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;h2 id="former-students">Former Students&lt;/h2>
+&lt;h3 id="master-students">Master Students&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/camiel-van-duijn-9200a7162" target="_blank" rel="noopener">Camiel van Duijn&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Learning Physical-Interaction Control Policies for Under-actuated Aerial Robots&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;a href="https://nl.linkedin.com/in/luuk-dijkman-4611a3275" target="_blank" rel="noopener">Luuk Dijkman&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;A Model-based Study of the Aerodynamic Interference Effect on the Control of a Multi-Rotor Omnidirectional Platform&amp;rdquo; (Co-supervised with Niccolò Botteghi and Barbara Bazzana)&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;ul>
@@ -410,12 +426,6 @@ Video
 &lt;li>&lt;a href="https://de.linkedin.com/in/yehia-moustafa" target="_blank" rel="noopener">Yehia Moustafa&lt;/a>, from &lt;a href="https://www.uni-hannover.de/en/" target="_blank" rel="noopener">Leibniz University Hannover&lt;/a>: &amp;ldquo;Predictive Sampling Framework for Aerial Physical Interaction Control&amp;rdquo;&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;ul>
-&lt;li>Arjen Temmink, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;Posture-Dependent Dynamic Feasibility of Humanoid Robots under External Disturbances&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;br>
-&lt;h2 id="former-students">Former Students&lt;/h2>
-&lt;h3 id="master-students">Master Students&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.linkedin.com/in/michele-brusadin/" target="_blank" rel="noopener">Michele Brusadin&lt;/a>, from &lt;a href="https://www.utwente.nl/" target="_blank" rel="noopener">University of Twente&lt;/a>: &amp;ldquo;RL-based Control of UASs Subject to Significant Disturbances and Vision Constraints&amp;rdquo;&lt;/li>
 &lt;/ul>
